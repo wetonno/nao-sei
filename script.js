@@ -120,18 +120,17 @@ document.addEventListener('DOMContentLoaded', () => {
                     file_id: hq.file_id_hq
                 };
                 tg.sendData(JSON.stringify(dataToSend));
-                // MUDANÇA: Fechar o MiniApp para que o utilizador veja o ficheiro a chegar.
-                tg.close();
+                // MUDANÇA: Avisa o utilizador em vez de fechar imediatamente.
+                tg.showAlert('O seu pedido foi enviado! Pode fechar esta janela.');
             });
 
             card.querySelector('.btn-desc').addEventListener('click', (e) => {
                 e.stopPropagation();
                 const dataToSend = {
                     action: "describe",
-                    data: hq // Envia todos os dados da HQ
+                    data: hq
                 };
                 tg.sendData(JSON.stringify(dataToSend));
-                // MUDANÇA: Fornece um feedback claro ao utilizador.
                 tg.HapticFeedback.notificationOccurred('success');
                 tg.showAlert('A capa e os detalhes foram enviados no seu chat!');
             });
