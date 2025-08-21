@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const hqGrid = document.getElementById('hq-grid');
 
     // Elementos de UI
-    const mainSearchBar = document.getElementById('main-search-bar'); // MUDANÇA: Nova barra de pesquisa
+    const mainSearchBar = document.getElementById('main-search-bar');
     const searchBar = document.getElementById('search-bar');
     const tagsContainer = document.getElementById('tags-container');
     const comicsViewTitle = document.getElementById('comics-view-title');
@@ -29,14 +29,12 @@ document.addEventListener('DOMContentLoaded', () => {
     let activeSubFilter = 'Todos';
     let currentMainCategory = '';
 
-    // --- Mapeamento de Categorias Principais ---
     const mainCategories = {
         'DC Comics': ['DC Comics', 'DC Comics (Black Label)', 'DC Comics / Dark Horse Comics', 'Vertigo (DC Comics) / Panini', 'Vertigo (DC Comics)', 'DC Comics / Fleetway', 'DC Comics (Elseworlds)', 'DC Comics / IDW Publishing'],
-        'Marvel': ['Marvel Comics'], // Exemplo, adicione mais se necessário
-        'Mangás': ['Shueisha', 'Kodansha'] // Exemplo
+        'Marvel': ['Marvel Comics'],
+        'Mangás': ['Shueisha', 'Kodansha']
     };
 
-    // --- Funções de Navegação ---
     function showView(viewToShow) {
         document.querySelectorAll('.view').forEach(view => view.classList.remove('active'));
         viewToShow.classList.add('active');
@@ -64,14 +62,13 @@ document.addEventListener('DOMContentLoaded', () => {
         showView(comicsView);
     }
 
-    // --- Funções de Renderização ---
-    function renderMainCategories(filterTerm = '') { // MUDANÇA: Aceita um termo de filtro
+    function renderMainCategories(filterTerm = '') {
         mainCategoryGrid.innerHTML = '';
         const lowerCaseFilter = filterTerm.toLowerCase();
 
         Object.keys(mainCategories).forEach(categoryName => {
             if (!categoryName.toLowerCase().includes(lowerCaseFilter)) {
-                return; // Pula se não corresponder à pesquisa
+                return;
             }
 
             const hasComics = todasAsHQs.some(hq => mainCategories[categoryName]?.includes(hq.editora));
@@ -111,23 +108,32 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="title">${hq.titulo}</div>
                     <div class="actions">
                         <button class="card-button btn-desc">DESCRIÇÃO</button>
-                        <button class="card-button btn-assistir" data-file-id="${hq.file_id_hq}">LER</button>
+                        <button class="card-button btn-assistir">LER</button>
                     </div>
                 </div>
             `;
             
             card.querySelector('.btn-assistir').addEventListener('click', (e) => {
                 e.stopPropagation();
-                if (tg.MainButton.isVisible) return;
-                tg.MainButton.setText(`A enviar ${hq.titulo}...`);
-                tg.MainButton.show();
-                tg.sendData(e.currentTarget.dataset.fileId);
+                const dataToSend = {
+                    action: "read",
+                    file_id: hq.file_id_hq
+                };
+                tg.sendData(JSON.stringify(dataToSend));
+                // MUDANÇA: Fechar o MiniApp para que o utilizador veja o ficheiro a chegar.
+                tg.close();
             });
 
             card.querySelector('.btn-desc').addEventListener('click', (e) => {
                 e.stopPropagation();
-                const details = `Título: ${hq.titulo}\nEditora: ${hq.editora}\nHerói: ${hq.heroi}\nSaga: ${hq.saga}\nAno: ${hq.ano}`;
-                tg.showAlert(details);
+                const dataToSend = {
+                    action: "describe",
+                    data: hq // Envia todos os dados da HQ
+                };
+                tg.sendData(JSON.stringify(dataToSend));
+                // MUDANÇA: Fornece um feedback claro ao utilizador.
+                tg.HapticFeedback.notificationOccurred('success');
+                tg.showAlert('A capa e os detalhes foram enviados no seu chat!');
             });
 
             hqGrid.appendChild(card);
@@ -155,7 +161,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- Função de Filtragem ---
     function filterAndRenderHQs() {
         let hqsFiltradas = hqsDaSubcategoria;
         if (activeSubFilter !== 'Todos') {
@@ -171,7 +176,6 @@ document.addEventListener('DOMContentLoaded', () => {
         renderHQs(hqsFiltradas);
     }
 
-    // --- Carregamento Inicial ---
     fetch('catalogo.json')
         .then(response => response.ok ? response.json() : Promise.reject(response.status))
         .then(data => {
@@ -184,8 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mainCategoryGrid.innerHTML = '<p style="text-align: center;">Não foi possível carregar o catálogo.</p>';
         });
 
-    // --- Event Listeners ---
-    mainSearchBar.addEventListener('input', (e) => { // MUDANÇA: Evento para a nova barra de pesquisa
+    mainSearchBar.addEventListener('input', (e) => {
         renderMainCategories(e.target.value);
     });
     searchBar.addEventListener('input', filterAndRenderHQs);
