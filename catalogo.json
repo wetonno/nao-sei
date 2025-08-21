@@ -1,0 +1,4223 @@
+[
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "01 - Gênese_01_de_04",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMbaKckZ8jGKd6nwcA7XVrEe9QytWoAAvEEAAK_JThF8YcfKpXlGeU2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMZaKciWCA9EDCDR8Q3If-47vpP62IAApOuMRu_JThFmy4haLhFLYcBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Lanterna Verde",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "02 - Lanterna Verde 91",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMdaKckbRiK6hfCyvCHJJk_8dugxxQAAvIEAAK_JThFbLXyT-zCVdw2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMcaKckajPrPFURSposddCuU20bGcgAApSuMRu_JThF3jnKWq2RYhYBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Shazam",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "03 - The Power of Shazam 31",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMfaKckccj7ME1czXObKPczTaRkr6QAAvMEAAK_JThFiCLc5W77UNE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMFaKce4i0F1EC8wPbRNvUdCDMkL7wAAoOuMRu_JThFXlX3DJyfMWwBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Starman",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "04 - Starman 35",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMhaKckdbQ6Pbdh3cCPaKOm3I36M3oAAvQEAAK_JThFZVwwDS7XF282BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMGaKce5fZymzzELVr-7sJ7-xmwhKMAAoSuMRu_JThFnG6S_zJm_bkBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "06 - The Man of Steel 072",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMjaKckbBlxnTFceTRxVgYH00HAG0EAAvUEAAK_JThFnyhZXjFU8-E2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMIaKce6KuIkRuLd7hNNi7lBYtrMscAAoWuMRu_JThFcpxrLNgFM-EBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "07 - Gênese_02_de_04",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMlaKckfRKYcWfqGfr36SezrHGmRsYAAvYEAAK_JThF3LN1OMBNQ0E2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMkaKckeqyz82V0pS8y2ZSJOmeYoCcAApWuMRu_JThF316zQOUF4rwBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Azrael",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "08 - Azrael 34",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMnaKckgdP3ihWpY-EZs6NOB8duxDMAAvcEAAK_JThFRFqG6_WnLhs2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMmaKckfyfyFlXOV4_Q1LXJEdpuUq0AApauMRu_JThFz6ZUKXVsbCEBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "09 - Batman 547 - Gênese Sombria",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMpaKckhG_wWUt2r_8yUu9u1yF6cGQAAvgEAAK_JThFBSXO2NEovQ42BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMKaKce6hcjgsgf1OjrlLDk3gjwhGcAAoauMRu_JThF9g0kq-floD0BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Impulso",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "10 - Impulso 030 - Chatice Total",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMraKckiGEncq4W3U7xJyXt9-STnjIAAvkEAAK_JThFWQfJYPIN8qc2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMMaKce7HRZ09msxeb3bzsD5pqnWX8AAoeuMRu_JThFKKuUviiiCuYBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Soberanos Sete",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "12 - Os Sete Soberanos 27",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMtaKckjDTh4ehut2IDrvOG_rYSAZcAAvoEAAK_JThFgrc-rgABhaqKNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMOaKce8QXRptddEEfrdh8n4NOuWRoAAoiuMRu_JThF3SnrCRpAwqsBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Supergirl",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "13 - Supergirl v2 #14",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMvaKckkEu_3hrwoLIgwx3_N2d0rh4AAvsEAAK_JThFSR8MW6MXdvc2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMuaKckjj7wZaAzks7JsPSu7Y8e7qIAApeuMRu_JThFLJ6WM8jKN20BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "14 - Superman v2 #128 (1997)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMxaKcklMoEu0BAW436zGeiSjdX52IAAvwEAAK_JThFCprKZyTDOds2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMwaKckklrOFTrfng9ou-9gdIwztOwAApiuMRu_JThFMs81wjhja9ABAAMCAAN5AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "15 - Gênese_03_de_04",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAMzaKckmb8h84wPR1A_2i_eBcWnNCgAAv0EAAK_JThFtGJukyKgR9E2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMyaKckltgna6iO52TjHQl83o-09ZQAApmuMRu_JThF_V4HkDtey2oBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "16 - The Adventures of Superman #551 (1997)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAM1aKcknRShkcLSW828L5kBCuTGIoMAAv4EAAK_JThFLi-3ekMNafk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAM0aKckmwIkHT6hdo8VHBRQWE4SMSUAApquMRu_JThF3YF46szDckEBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Aquaman",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "17 - Aquaman v5 37 (1997)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAM3aKckoi6alS54jYmS98zOY1JLMawAAv8EAAK_JThFMoIOPZe9okM2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAM2aKckoO5wzZloL9cAAdVbyUFd1s2MAAKbrjEbvyU4Rdwtdx-s4NemAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Homem-Ressurreição",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "19 - Homem Ressurreição v1 #06 (1997)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAM5aKckpePSS5mPgipL5INX37-dSiYAAwUAAr8lOEVGYXFYeu_DqjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAM4aKcko33sUrPvXk3t8hl8QkDjyogAApyuMRu_JThFLIlUj7CTOVABAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Legião dos Super-Heróis",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "21 - Legião dos Super-Heróis v4 #97 (1997)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAM7aKckqYTdXx1USyRCbAnM0NOegaMAAgEFAAK_JThFPEZYyDwgIRw2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAM6aKckp45rz27X27rQlw372TPmhOEAAp2uMRu_JThFW0DWu1o5jNMBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superboy",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "24 - Superboy and the Ravers #14 (1997)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAM-aKckyUikAxsfqlGoQ55nLAs3wYgAAgIFAAK_JThFTHIDd4iRnJo2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAM9aKckxok2wJxUwu-M2LNFYVDxQYwAAp-uMRu_JThFcKpfZCUSjckBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Xero",
+        "saga": "Gênese",
+        "ano": "1997",
+        "titulo": "27 - Xero #06 (1997)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANAaKckzfHJ6kEflPxI6deuyvwh6oUAAgMFAAK_JThFyv0BXR2dDWA2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAM_aKcky8s9dJi-sV4HPaAb49QC3ZEAAqCuMRu_JThFnGCm1QU26QgBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "A Origem do Superman",
+        "ano": "2019",
+        "titulo": "A Origem do Superman - Edição 01 (2019)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANCaKck0mnRMAhjn9qqb9y5NXoRff0AAgQFAAK_JThFA37vovK8d1U2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANBaKckz2Nn0J7uGC0ypkJKiAudhf8AAqGuMRu_JThFBkHpVtj_0ikBAAMCAAN5AAM2BA"
+    },
+    {
+        "editora": "DC Comics (Black Label)",
+        "heroi": "Batman",
+        "saga": "Batman: Damned",
+        "ano": "2018",
+        "titulo": "Batman Damned - 2018 (DC) - 001",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANEaKck11EjRkt0ieFEFgGVo5M4Ly8AAgUFAAK_JThFpeOElr8hnPw2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMQaKce9HppPz__e-naCEmyfjGuSksAAomuMRu_JThFwMsB14etsyQBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Comando Zumbi (G.I. Zombie)",
+        "ano": "2014",
+        "titulo": "Comando Zumbi # 01 (2014) DC Comics",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANGaKck3ATHz3uUUI44Mod4rj7xo9YAAgYFAAK_JThFAn5d5VXNq-I2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANFaKck2o7UK69asYcF4BXJfebjLNsAAqKuMRu_JThFt0o3kpovMAcBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Comando Zumbi (G.I. Zombie)",
+        "ano": "2014",
+        "titulo": "Comando Zumbi # 02 (2014) DC Comics",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANIaKck4t8JI7v5eI74CaRzM-jUDzYAAgcFAAK_JThFIzcCu5pcaIA2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANHaKck3la5MYHgTLF2Y0kXCDWUUD4AAqOuMRu_JThFj8HzMt5cFYkBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Comando Zumbi (G.I. Zombie)",
+        "ano": "2014",
+        "titulo": "Comando Zumbi # 03 (2014) DC Comics",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANKaKck5uLsggfS2TcIqG_rMIIa46UAAggFAAK_JThFgfNOxXmlMNI2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANJaKck5Hb6q15dN1Efp47N6Ii65o4AAqSuMRu_JThFTsy_iVvheEoBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "He-Man / Thundercats",
+        "saga": "He-Man/Thundercats",
+        "ano": "2016",
+        "titulo": "He-Man Thundercats - 002",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANMaKck7Ap6KHWJtoRyb3tHmUaTuOoAAgkFAAK_JThFUa09g-x1YQE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANLaKck6VTgksZdfJ3qney34yaO9KQAAqWuMRu_JThFz6ClP6xGUykBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "He-Man / Thundercats",
+        "saga": "He-Man/Thundercats",
+        "ano": "2016",
+        "titulo": "He-ManThundercats - 2016 (DC) - 003",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANOaKck8RuWjj95KkLlfubnVz6D-koAAgoFAAK_JThF_pnYIU74e_M2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMSaKce-tFkssAt5ckdZwrsTDaxJt4AAoquMRu_JThFNJvD31I_6h0BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics / Dark Horse Comics",
+        "heroi": "Mulher-Maravilha / Conan",
+        "saga": "Wonder Woman/Conan",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha e Conan 01 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANQaKck9rMCgvG7CfDr_kM5tI6UyoYAAgsFAAK_JThF99s4qh4o1Hc2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANPaKck87ldooLR5oU8h0fu8FtMZJYAAqauMRu_JThF2sbqWFfZ9F0BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics / Dark Horse Comics",
+        "heroi": "Mulher-Maravilha / Conan",
+        "saga": "Wonder Woman/Conan",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha e Conan 05 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANSaKclC8_kUpTVPsIGXFNqh3Rp7qMAAgwFAAK_JThFnYGE2dTKZWs2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANRaKclCFLVhqq29FZIGdNQw2gtG20AAqeuMRu_JThFN13pOssr390BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics / Dark Horse Comics",
+        "heroi": "Mulher-Maravilha / Conan",
+        "saga": "Wonder Woman/Conan",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha e Conan 06 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANUaKclDw2V5EORYKDeCW8mPHOFeaQAAg0FAAK_JThFDVK_EAiupjU2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANTaKclDbZppBhjUhiEqmMkfq_EfygAAqiuMRu_JThFqtyWZ4sAAfZIAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Supergirl (Matrix)",
+        "saga": "Supergirl (minissérie)",
+        "ano": "1994",
+        "titulo": "Super Girl Matrix - 02",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANWaKclFzzqpCFjRW7fwl9GhOpEsuAAAg4FAAK_JThF3xRn1QcbFl42BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANVaKclFTVU-TzlHdVtlhr9X7ZGjAUAAqmuMRu_JThF3xx2VzFuZ0MBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman: Identidade Secreta",
+        "ano": "2004",
+        "titulo": "superman-identidade-secreta-01",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANYaKclG-dRqEIE2CzIn73U6rAU5VYAAg8FAAK_JThFEfHueX4WK3w2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANXaKclGWz9e6FHHJt1actrbmoJcJ4AAqquMRu_JThFdp9uz2oQzEMBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman: Identidade Secreta",
+        "ano": "2004",
+        "titulo": "superman-identidade-secreta-02",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANaaKclHnJsxbvdEIW795f8bP1Jul8AAhAFAAK_JThFBslw6jGilOw2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANZaKclHFVoXuV_6OJCR7MbloikIhIAAquuMRu_JThFVDcBS0Pb6gQBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman: Identidade Secreta",
+        "ano": "2004",
+        "titulo": "superman-identidade-secreta-03",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANcaKclIRrQVRdtdWT1EVO1WJGnrBwAAhEFAAK_JThFy3wLY5BfvK42BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANbaKclH_0UCBIdQ40y6Lh7Ndh2S9gAAqyuMRu_JThFtr7AZVKWqHIBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman: Identidade Secreta",
+        "ano": "2004",
+        "titulo": "superman-identidade-secreta-04",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANeaKclJBvj23BHdq_FQFw_SJZelUEAAhIFAAK_JThFOtZginQ3AAGvNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANdaKclI8OW7M9n3aYyAAHQSGm_mTHCAAKtrjEbvyU4RfrQNtwSXpctAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Não especificado",
+        "ano": "Não especificado",
+        "titulo": "Supernalonga1",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANgaKclJ2_Xi43sYo47FUgg6vfAPFUAAhMFAAK_JThFuYSgvvw5gHs2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANfaKclJki9sU2USwbRno2255zf9bAAAq6uMRu_JThFaPs0vOaMcb8BAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Não especificado",
+        "ano": "Não especificado",
+        "titulo": "Supernalonga2",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANiaKclKsGs9KRmwpRjPfuGZu5hZM8AAhQFAAK_JThFra9F56G7BBM2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANhaKclKY6Ti_8gaM8lQqOMzkgXQYkAAq-uMRu_JThFpQY3XUd_i0kBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Não especificado",
+        "ano": "Não especificado",
+        "titulo": "Supernalonga3",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANkaKclLWRC3d5vqezUA1Uxyd6SQsQAAhUFAAK_JThF5WglQgq__lE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANjaKclLDvk6Kl5wpPbq1Bj0pCRwvoAArCuMRu_JThFpZTzOyxi794BAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "Vertigo (DC Comics) / Panini",
+        "heroi": "V",
+        "saga": "V de Vingança",
+        "ano": "2012",
+        "titulo": "V de Vingança (Alan Moore, David Lloyd)_Portuguese_Panini_2012 (z-lib.org)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANmaKclUFJP2W5967NQmQ7tJYkfS2kAAhYFAAK_JThFQSv__-gDUEA2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANlaKclSrcFsM6bsG_gHCrDs39NkOAAArGuMRu_JThF_OGrdB685H0BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #01 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANoaKclU9n9ZRKfZRKozfw9ETSvdRcAAhcFAAK_JThF1AcAAbDAT922NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANnaKclUTMJ5kfk1oV-0vJlxmTcEZ8AArKuMRu_JThFdbKc1EsXi0YBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #02 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANqaKclVzyXqzROc3bGtO2vkgLq9WEAAhgFAAK_JThFo3UmOA3Mgks2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANpaKclVd6fx2acw34BZJTnEfkJ-C4AArOuMRu_JThFcCkwjmm4MW4BAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #03 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANsaKclWvj89Ue7Tp2NTlQC1RuVr8EAAhkFAAK_JThFYMwKbFjDWzM2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANraKclWAyLmycqlYAu7UZS3mu5XCsAArSuMRu_JThFhfyU4_76PygBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #04 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANuaKclXSCOUa7UG4cejbWU_q0E3_EAAhoFAAK_JThFYxM7nP6atzQ2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANtaKclXAzFdqzfhazhjEZRl2S3SoUAArWuMRu_JThFNUEJ91sozg4BAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #05 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANwaKclYWDUTvY499eg1e4pEkETLaUAAhsFAAK_JThF9WQICd1IMFY2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANvaKclX9TQSXD_GKx-4dksUUI7LvsAArauMRu_JThFSfqbFsMuK3cBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #06 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AANyaKclZS2UKc9vjM0rI3PIN92_ffgAAhwFAAK_JThFKfm6BmRf8fw2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANxaKclY-egEzBiOWfzk9Yybit2ARsAAreuMRu_JThFRRUKDUG9IYMBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #07 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAN0aKclaOGAvU3zRy4VDmP7f8yqoGQAAh0FAAK_JThFet-rgLtvff82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AANzaKclZuxOtp-rHcFd27uiFIoyUscAAriuMRu_JThFnrkS8aINzysBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #08 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAN2aKclbHfdOEo2QK_F0nOg5QReSPEAAh4FAAK_JThFCuatJE-0lVg2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAN1aKclannAZgNmhjmCGXSFVyhiREQAArmuMRu_JThFD4trujUdztEBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1985",
+        "titulo": "Crise nas Infinitas Terras #09 (1985)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAN4aKclb-_fyGpm6_oT4sw1u-U9uhoAAh8FAAK_JThFnuEeUjfxAww2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAN3aKclbW5H3EI6xZunXPqtfUsSdbUAArquMRu_JThFQZNIUPDWj0EBAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1986",
+        "titulo": "Crise nas Infinitas Terras #11 (1986)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAN6aKcljUjzi3DAW-vmt6EUoTQ2xIoAAiAFAAK_JThFZ3j4d6H-pyA2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAN5aKclioQa-4QrbEIYLXudVZwid0IAAruuMRu_JThFdfuKTpenRaABAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise nas Infinitas Terras",
+        "ano": "1986",
+        "titulo": "Crise nas Infinitas Terras #12 (1986)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAN8aKclkl-IYchm67_iosAEsVFjN-IAAiEFAAK_JThFlSdAueHNbYk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAN7aKcljwnW_qp5tDLlxdAUjJmcE8oAAryuMRu_JThFeWrf4GFPpg8BAAMCAANtAAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2009",
+        "titulo": "Sereias de Gotham #01 (2009).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAN-aKclln-7iQTB4VtP-JflzQk4reQAAiIFAAK_JThFfVVwwqM94zI2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAN9aKcllH5wsh3eLRaWoeuLye3OHyIAAr2uMRu_JThFW4w0c4TGKdQBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2009",
+        "titulo": "Sereias de Gotham #02 (2009).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOAaKclmxzukWG7Q77pfqAk0W0qZzAAAiMFAAK_JThFjddPDCVBhp02BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAN_aKclmKC1tHUUPyg-Bcv9oC0w5IMAAr6uMRu_JThFfqrxcWoOP8QBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2009",
+        "titulo": "Sereias de Gotham #03 (2009).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOCaKclnxBQKQigofm3VfIcOZ4eW8IAAiQFAAK_JThFISLA66UbmMM2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOBaKclnAS8X0LAolPeeCTHJsoheFgAAr-uMRu_JThFjhT7neG6yBQBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2009",
+        "titulo": "Sereias de Gotham #04 (2009).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOEaKclpMTIKOdWwMZIgItWmyd1f9gAAiUFAAK_JThFQCm1I5V3L0A2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAODaKclodMuq14xhnpntJ6_yZhEFnAAAsCuMRu_JThFr8jQc8_ZUsABAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2009",
+        "titulo": "Sereias de Gotham #05 (2009).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOGaKclqN3yBid-wBx17PtPe993z8sAAiYFAAK_JThFbzuOkKgI01I2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOFaKclpfyNSMpAXyDmNTJrHSFF5gADwa4xG78lOEXKi_IERKfVOwEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #06 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOIaKclrE0f0UewsgSkJCzl6Q0KBygAAicFAAK_JThFCPUOKkCo3AU2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOHaKclqRRebdOS0zTwnmEMLy-kDFMAAsKuMRu_JThFYWW6QxcCGIwBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #07 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOKaKclslvLpssxJ6KZQzriAlBGz1gAAigFAAK_JThFT6BAvi40WTs2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOJaKclrjd_TmP3zLoeJXA6WUsMkooAAsOuMRu_JThFfdVwe31SCOUBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #08 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOMaKclth9pytgSbTHPjBTkVRPSqMsAAikFAAK_JThF6Tmp5vI208I2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOLaKcltEvxq_dP58ZSGfJlE5LZPwADxK4xG78lOEXg-cJt1CcVQAEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #10 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOOaKclzvCiRwFPjs_6IuJS9MkBP9QAAioFAAK_JThFdscGhKeshBM2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAONaKcly5e202u4kuFQgxDyl3WiKukAAsWuMRu_JThFYHAoUFSn650BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #11 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOQaKcl1LtQjR2WY7JxF92HOLYjdssAAisFAAK_JThFC2xSrIB5DR02BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOPaKcl0e8onYS4Wgc0JV26w8HebUYAAsauMRu_JThFKXofMGZjpawBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #12 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOSaKcl2QABw7dJHRElqsCZZJZrpzc6AAIsBQACvyU4RZ0AAcNyjyEXrTYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAORaKcl1uxp0dmVO9ESokypYqdDPEcAAseuMRu_JThFUxm0nne4MQwBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #13 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOUaKcl31qow_UJdDje79mDyabuwlAAAi0FAAK_JThFUikcw3Xh9Ao2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOTaKcl3Lvm5BIxLNCb1ka8fYARGugAAsiuMRu_JThFGfzIKBvt7j8BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #14 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOWaKcl5I7fxOKO8gX5EE66796uzvgAAi4FAAK_JThF_vfkRk-rCQ82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOVaKcl4cimZ3wiRgnIuEDCfv-Fwt8AAsmuMRu_JThFu8rDjA0pPJwBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #15 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOYaKcl6UinzT8F_6TW0z-GBUoHeI0AAi8FAAK_JThFr9vOr4AVyD42BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOXaKcl5nA7vsr40KSGlZO17eQPedQAAsquMRu_JThF0V-QUzxHm7wBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #16 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOaaKcl7gYCEmYn8XKg3R0sArA3cYwAAjAFAAK_JThF8JdA_bASNls2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOZaKcl7ENbSDVyVJWOe7-DuYmlmWYAAsuuMRu_JThFH4mUl_z6sZABAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "Sereias de Gotham #17 (2010).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOcaKcl8umYx7ueLlEsyvgo2kOFVw8AAjEFAAK_JThF2C31dASb-pk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAObaKcl8D7yX4qQZDvQcJHC7YZ4muEAAsyuMRu_JThF_JFRsCcjD8wBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "Sereias de Gotham #18 (2011).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOeaKcl9RPzUXdwXW-u2kUkDzZWY0QAAjIFAAK_JThFSXANTuBPVqI2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOdaKcl8x4ewCza7JtLSKWUoBl-p-8AAs2uMRu_JThFDk_Fn4mOfLUBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "Sereias de Gotham #19 (2011).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOgaKcl-g6wul5GKcVOYBFoHuAAASDhAAIzBQACvyU4RRTrX0-7nBxINgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOfaKcl99E71759ff7HDtn8PA0pXeYAAs6uMRu_JThFmPhZg1rrj3cBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "Sereias de Gotham #21 (2011).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOiaKcmD6DUpdRFHHnlyvCzS2ciw54AAjQFAAK_JThF559-D13F0rk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOhaKcmC6BpMO1h_1r7ww7kAu6t4vMAAs-uMRu_JThFgUCAIQeeZ08BAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "Sereias de Gotham #22 (2011).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOkaKcmFAABDrzNEPFVcGPzPivsL0o_AAI1BQACvyU4RTmPUzuHI9H9NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOjaKcmEPGbFoyZwPsoWkonX5iNtQwAAtCuMRu_JThF2lo48V9SISYBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "Sereias de Gotham #23 (2011).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOmaKcmGpNKzq1RgZxwhfN6dEElgOAAAjYFAAK_JThFmx8HckFCn4Y2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOlaKcmFikDsDqq3sb6KkXA2pA4FmkAAtGuMRu_JThF_NcKS0biUuEBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "Sereias de Gotham #24 (2011).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOoaKcmH6zVKQTFI9mus3hJPYE6_UAAAjcFAAK_JThFDdBjkXZ0L9k2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOnaKcmHO5hvoNjkCaoeLUPD-iySCcAAtKuMRu_JThFibKumVYUE4IBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "Sereias de Gotham #25 (2011).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOqaKcmJZ0xMoHqirfIXJUy_1eJU4wAAjgFAAK_JThFkDqnd6cHmE82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOpaKcmIdgDfHHpTLmoLfGk8WncHSQAAtOuMRu_JThFVFNxWW2i1bYBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "Sereias de Gotham #26 (2011).pdf",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOsaKcmK6YGDkpw1yfwcIROpI96dbgAAjkFAAK_JThFdAppqhBHd4E2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOraKcmKOguVHFZ_xx3PSWqYeiclZoAAtSuMRu_JThF-Q_7OxcE92EBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #00 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOuaKcmMFK4tgPZJnTtO9KRzB1JRfkAAjoFAAK_JThFBy9YJH5Z1LE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOtaKcmLT1zWMSTHpBhvIvzq9c7XV4AAtWuMRu_JThFotfXM6YaAzsBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #01 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOwaKcmNxbU-7sAAf4BZWfoR00zHj-QAAI7BQACvyU4ReCiqiGH0YXoNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOvaKcmM2TII8ffB15GS_yHegFDooMAAtauMRu_JThFVe4HmTNdL68BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #02 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAOyaKcmPSoQ7ewVDWag9efokV0pZR4AAjwFAAK_JThF2NK90bFxKjE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOxaKcmOZgdj7MzYaFtRR1W49MDm44AAteuMRu_JThFyo7cYczXzPMBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #03 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAO0aKcmQ24k9RF-rWFEaeFNWkowNCcAAj0FAAK_JThF2drkH1F9qV42BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOzaKcmQBIW9zq0SN-zY4wRVqZdCk4AAtiuMRu_JThF0Oq5wjhYfFgBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #04 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAO2aKcmS9iiMJ8QH1tVqyWOG6f5QlAAAj4FAAK_JThFydIL_QPOZtc2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAO1aKcmSL3fZLdXlkvGgCa7n2lR9fYAAtmuMRu_JThFG1BGF21-CxgBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #05 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAO4aKcmUZOcXKslD9SlCV-iXlpVpSQAAj8FAAK_JThFEnkr72mgoG82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAO3aKcmTkQgUj-M43jIMraB1yZ7urwAAtquMRu_JThFOCqNcGVgB5IBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #06 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAO6aKcmV2opc2SPZUE-Y0terwbac_4AAkAFAAK_JThFX_ZGeSG9khA2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAO5aKcmVCOtQM81QA3e0lPsKiikCHgAAtuuMRu_JThFmxi7H24I_UABAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #07 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAO8aKcmXcEVwtBbbBC1hb5WU1fd5jwAAkEFAAK_JThFURZLtNmBrYM2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAO7aKcmWnytThlQB0N8SgXdlTF6VW4AAtyuMRu_JThFJHkv4P2uXvIBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #08 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAO-aKcmZorzA4WnGG0VXtdpyj4fpdIAAkIFAAK_JThFtQFBZz5i0yk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAO9aKcmYdDqd3oufcZ9L_CygLfCevIAAt2uMRu_JThF4bFASV6BUsoBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #09 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPAaKcmbB2ZHvlHYvjgtPhZU1EgUOoAAkMFAAK_JThF-j8q1MQtd282BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAO_aKcmaW6WUiiGz_Nie2Zx2pWwOGkAAt6uMRu_JThFBhwnLOj8uFkBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2016",
+        "titulo": "Mulher Maravilha #10 (2016)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPCaKcmcsUiChOlRfK4FwpGmiadYY8AAkQFAAK_JThF6Sx3AAFzn6E_NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPBaKcmb_-y9Di7G_sSQq6_86JxO0gAAt-uMRu_JThFidjkVSPsfWUBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #14 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPEaKcmeCmVoq4gyVqiDnmpYZqzWMMAAkUFAAK_JThFY22-9zGhfeo2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPDaKcmdBWL0HHQQclVq-bLqZU74lQAAuCuMRu_JThFJaQSLI-QSkEBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #16 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPGaKcmgC1vJ10z2ct1OFpgqxguPnoAAkYFAAK_JThFQ4-mXAZegY82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPFaKcme4uJxD-UlA62q9fGSHz_VjkAAuGuMRu_JThFOqicoNJiO5kBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #21 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPIaKcmhfO5zd22NwmC-tzulLtk1psAAkcFAAK_JThF7xY3q49t0cQ2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPHaKcmgngSlg7a_jt1cdKPwyPz96IAAuKuMRu_JThFuFQ1ICBb-7QBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #22 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPKaKcmjMY3oVZ8TKorNfYIxsnSu8IAAkgFAAK_JThFCHJTapCGS4U2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPJaKcmiIfZ_YX12-D9zOGbnmNRh_8AAuOuMRu_JThFRthJj_uy9qkBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #23 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPMaKcmkrrasjWATnHO-kDuz5oThOcAAkkFAAK_JThFep5CuP7FULg2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPLaKcmjuOflm_8scrQo0OBlpsmnUcAAuSuMRu_JThFFjHmMQPDRhcBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #24 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPOaKcmmqDzoJFVC3LgZvy62P3t-jgAAkoFAAK_JThFZL4iarsC6Yg2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPNaKcmlbK1GhHp9js3TZ2-eD_2UioAAuWuMRu_JThF7zAkcd3xtaYBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #25 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPQaKcmocK5XCMx8jOjUEjnyF_SKaYAAksFAAK_JThFmmJ2AAHhku9HNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPPaKcmnZd-GtPtYboXnZwQX_z-etwAAuauMRu_JThF8mAfThXe8eoBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #26 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPSaKcmpzfonY7uLkD46e83t4do0lcAAkwFAAK_JThFGWOwRzBlmm42BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPRaKcmpO4peNXF1ewezcwSPO_jNNgAAueuMRu_JThFQWFkojDDOzIBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #28 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPUaKcmrZDAU-4IBHzNWEFCxUoPJVIAAk0FAAK_JThFAil51wxOtjk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPTaKcmqsdeVSQv8gE3aV1uJnPxGM8AAumuMRu_JThFa1yWXWF4X-MBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #29 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPWaKcmtLVLGSmZsntHjGtIawS0EpgAAk4FAAK_JThFb7-Q1l8h06U2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPVaKcmsJhtWhPT7Rebvx7AikZOMA8AAuquMRu_JThFo1dzPVGu9XgBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #30 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPYaKcmuzYtjyjvx0u8GCcwniWYB_AAAk8FAAK_JThFnyoLt31Luso2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPXaKcmt1Odk9__fpjGxth-D5BRtCgAAuuuMRu_JThFbDyQoLTZ3RwBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #31 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPaaKcmwlYWFnkiX0bdwvw2rPj0ArMAAlAFAAK_JThFKNGp2114W-k2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPZaKcmviAuTM1M0BgmtGlrOcRF3YYAAuyuMRu_JThFA4Du5_1tzx0BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #32 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPcaKcmyYGrdTChs0ppUJH7Xx3O4P8AAlEFAAK_JThFYsIH_MRcm902BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPbaKcmxSda3bBYxgy20WFJ6HzONf4AAu2uMRu_JThFCwOxJK_b3_sBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #33 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPeaKcmz2LZQW2H3wpaxLStsUsqHDoAAlIFAAK_JThFHltTA2aReoE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPdaKcmy_1LsKLVk2Tw7yvyZB3w4kEAAu6uMRu_JThFiJNxixrctYIBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #34 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPgaKcm19ekxJYw2c32WZYkqmDBlKQAAlMFAAK_JThFfTznDewZRRI2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPfaKcm0pbry61XEBrVA-TYAAHqKlNpAALvrjEbvyU4RdvW5XvM6VTpAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #35 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPiaKcm3hdAAsLyFXaCvkN6vrlEcxUAAlQFAAK_JThFdaAlhOPkKR82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPhaKcm2nWy2sBgq0tx62Syfo6tejEAAvCuMRu_JThFuQcCbypFEZ0BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #36 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPkaKcm5RNYUoJ8aNCJdpWzkWdDkscAAlUFAAK_JThFwvx_gdjCGwk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPjaKcm4c4rRJtZyaShqlbyGu95sNcAAvGuMRu_JThFo7fWqyH-ScIBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Mulher Maravilha #37 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPmaKcm7POuIMuAm9XzlDIFZiIDqmEAAlYFAAK_JThFI9gOxnSuKxg2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPlaKcm5yo9ucongIBcN1UhR68pSCwAAvKuMRu_JThFicqJczi_cAABAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #38 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPoaKcm8ViCrajbV-yH5KmSvzQGiIIAAlcFAAK_JThFJumL5CZk8AE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPnaKcm7mgqn6xRZTNVlr3vizwRlycAAvOuMRu_JThF6XIyxz5ML0QBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #39 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPqaKcm-DCnnS5otdu_f4ii9OSFsqcAAlgFAAK_JThFwiLrAxwAAYPvNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPpaKcm9CQe7po9Kp58eNnRQwWO15oAAvSuMRu_JThFKTcJggg0tWIBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #40 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPsaKcm__EF0hIGEqCOTZug0FZRIEoAAlkFAAK_JThFUODNIElfUsk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPraKcm_LwP3cooSjb3U2U1FbUVsYEAAvWuMRu_JThFr4W0H76-9ToBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #41 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPuaKcnBtv_jIFZv13UllOb6cxPrX8AAloFAAK_JThFcYYapKIpDz82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPtaKcnAhUhG0m6OzlW4cNWwd9QkT4AAvauMRu_JThFJqBaam3hqYkBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #42 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPwaKcnDTK-b1XE3WHubN-rp6Hn20EAAlsFAAK_JThFrzBSl56j0Ao2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPvaKcnCQWT3OPXcfSlQXR1w9HTYFgAAveuMRu_JThFMhzX3X-uY2sBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #43 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAPyaKcnE8ss1ATegGJbKufT4bneQCgAAlwFAAK_JThFwBH0w62hWpk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPxaKcnD3M3jQZgRnE_z72bdzJxfUsAAviuMRu_JThF0Xsup3MahcMBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #44 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAP0aKcnGiCr8AwN5Ls5MyD3zEXWRmwAAl0FAAK_JThFzbV5B2RnOw02BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAPzaKcnFoSMbxD7NekBWK2ztSGBJn0AAvmuMRu_JThFpZobSoRrn3oBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #45 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAP2aKcnIfco9gaIUgmPsClUok1smE4AAl4FAAK_JThFQ5xUEQ6b7mE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAP1aKcnHWbd9isMrt5DdsYDmVHw0HQAAvquMRu_JThFW49xJwL2HLQBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #46 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAP4aKcnJ-Tgt95ueLfdJsAM-SXQFvMAAl8FAAK_JThFN4oCMo96pm82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAP3aKcnIyTneLyUGZAkmxa_DelcSz4AAvuuMRu_JThFLb2dW6uWyKgBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #47 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAP6aKcnL2P6twmnvbw_OZ9CT5Lp95EAAmAFAAK_JThFrloI7dU0xX42BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAP5aKcnKt8fVS9jL41DA4sCKUwJpZYAAvyuMRu_JThFErw515nxa7IBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #48 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAP8aKcnNpv_SJE1_z3LQ_h7oh0yk2gAAmEFAAK_JThFwVSOu1zpfW82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAP7aKcnMg3FmEbeO5sXn1ZpPPgIRhcAAv2uMRu_JThFKH3SmWXTyq8BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #49 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAP-aKcnPQOFhQysteoVzu2DMlPwVQgAAmIFAAK_JThF3r56GP45dP82BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAP9aKcnOc9ysCKp51DqZDC0AfdxYYgAAv6uMRu_JThFwDUzmjvysTgBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Mulher Maravilha #50 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBAAFopydFm08-zcQnF199MzxFfj9cYwACYwUAAr8lOEUXXsacSqMf1jYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAP_aKcnQLjafjOc9ayPGrYCvvZpHs4AAv-uMRu_JThF-DpOyV75ZzUBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2017",
+        "titulo": "Anual Mulher Maravilha #01 (2017)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBAminJ02FAwABt_lz_9cGmI0H5GyAugACZAUAAr8lOEVCT6FWa2IdbTYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBAWinJ0gM7fmmcA0adwjlRqm84XRpAAOvMRu_JThFjqJg-5Y1qV0BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Mulher-Maravilha",
+        "saga": "DC Renascimento",
+        "ano": "2018",
+        "titulo": "Anual Mulher Maravilha #02 (2018)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBBGinJ1aPOVd3BuQUOx2RlefRDSwJAAJlBQACvyU4RXRPDeUL2rW9NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBA2inJ1DJrfAPOkqk6Ls1k4hyPgjLAAIBrzEbvyU4RZGqIpBkhXWNAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2010",
+        "titulo": "American Vampire - 001",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBCminJ5c8bjd2I_Iq6aTJmq4k0ATrAAJmBQACvyU4RRf71r7R7TxTNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBCWinJ5TgMSBmyRWei5HW5Hu2AhekAAIFrzEbvyU4RasLsvLbqP_FAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2010",
+        "titulo": "American Vampire - 002",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBDGinJ54i3BO4jkH5NrXxxyIggES1AAJnBQACvyU4Re0o1I7rpjViNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBC2inJ5rCH1UpR5eKCdVbK9PALP2gAAIGrzEbvyU4Re3vX8NfBd5WAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2010",
+        "titulo": "American Vampire - 003",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBDminJ6Jc02KA37IUKadnsIdHSGYdAAJoBQACvyU4RROKdcB-_gv3NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBDWinJ6CX_AhOAr7Krl4xhZoHLUCCAAIHrzEbvyU4RYxVunRqVXI_AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2010",
+        "titulo": "American Vampire - 004",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBEGinJ6fRRze30X9eelqcj2ldLdPEAAJpBQACvyU4RcC0f-vXF-LlNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBD2inJ6SkyrodmY7H7H1u5_D3dwuBAAIIrzEbvyU4RR6a11x1DSqsAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2010",
+        "titulo": "American Vampire - 005",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBEminJ6vJBRyOJHIiifBl_Jgi5tGdAAJqBQACvyU4RUk5CxIWnxhWNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBEWinJ6n22TSLbbJi7dW0Mi4YUBnEAAIJrzEbvyU4RVdkTaLHJsoiAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2010",
+        "titulo": "American Vampire - 006",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBFGinJ7HUoARqlbixSDYtMwJ-v1h0AAJrBQACvyU4RQvHzvNits45NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBE2inJ635CNb-G2V7OgXnn5hoiF0iAAIKrzEbvyU4RSC0Th33waEEAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2010",
+        "titulo": "American Vampire - 007",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBFminJ7YTL1BPN0lU5EMivElzmD3PAAJsBQACvyU4RdLCN6-xreYJNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBFWinJ7PN4poOT6cdzlmp4i0ZIj-tAAILrzEbvyU4RXqExTzSHLlXAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 008",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBGGinJ7x0BKaVyUCMl7wtgGCeuPAuAAJtBQACvyU4RdvhJu8ERWMaNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBF2inJ7igZDaoZuuPClJBMFqLNfO6AAIMrzEbvyU4RY2N4auFFseHAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 014",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBGminJ8BvZlXlM6yb84I586x6PljLAAJuBQACvyU4RbbTRY_hQ5SvNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBGWinJ766Xz2KsDAm-NUdH5egQ8aFAAINrzEbvyU4RfSUvjcYUyl5AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 015",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBHGinJ8XhLtHDYLifCFqtqVV8x9UxAAJvBQACvyU4ReV2lhBDwRtpNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBG2inJ8MZShG9E3dKTpDF1JbfJxAOAAIOrzEbvyU4Rf4sUlNLsm29AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 016",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBHminJ8rMBJKZDOl24umyyUw1xqzNAAJwBQACvyU4RVauFKthhlBONgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBHWinJ8gLacQ0kYycTbvm5aRLylaPAAIPrzEbvyU4RahcPesRgyNTAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 017",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBIGinJ87LVtdBHnDjVuM_FcBIFdw_AAJxBQACvyU4RTQoLazavAaHNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBH2inJ82jvOGkcYVJESULwGiOb0T4AAIQrzEbvyU4RVH34EltEi2XAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 018",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBIminJ9OnO_k-ClLYulkRCRIfw3cEAAJyBQACvyU4RSne6XhAASzDNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBIWinJ9GxPPN5hj-cvnKpbKR11wABOQACEa8xG78lOEXxQae5fWKW4AEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 019",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBJGinJ9guk4Kjz93hLJ_TQJsAATPBxwACcwUAAr8lOEWxY892FbYRPjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBI2inJ9Y67lfgq5E9Ql2BN7cttaetAAISrzEbvyU4RZdLSEi3jFwwAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 020",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBJminJ-F44bJHJ0DLJysfX1l6TL-WAAJ0BQACvyU4Rf38DZ94pRNwNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBJWinJ9316xuwfEPrdSTkGXk8mhVYAAITrzEbvyU4RdjjXcwo662NAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 021",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBKGinJ-Y7aBMc9hZuKtC7NK90w1k5AAJ1BQACvyU4Rc6eQT2gpEYxNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBJ2inJ-PvU-TTzkzns-7Yg0mWK1vzAAIUrzEbvyU4Rc21j_wehBeLAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 022",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBKminJ-xJDyozDmV2slnOtzsFwZuMAAJ2BQACvyU4RZxEdTxTpIgxNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBKWinJ-mv9k8q5iu-C40eq_OaycuxAAIVrzEbvyU4RQpw-brI_EyTAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 023",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBLGinJ_I7DPLYK4mTW2TP5z_FbFbHAAJ3BQACvyU4RXYuCcj1jQQaNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBK2inJ-6EsFVY__iWNB4IvrmakmV0AAIWrzEbvyU4RW8Q8-Q2V90BAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 024",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBLminJ_hc4PdIxglbqVRJg15kYyQPAAJ4BQACvyU4RZuAOPBXxd3VNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBLWinJ_RGUmPe9U0ofbBzKGWFx1EIAAIXrzEbvyU4RUqH4pVfV5dAAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 025",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBMGinKAP7ddL6oXAdVP9_W_Vw16SDAAJ5BQACvyU4RWq0VsNAtylRNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBL2inJ__8DIIZGHbzQlth4Ja4NzIpAAIYrzEbvyU4RVeNO6vRjy0gAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 026",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBMminKAsg4i1yLJN6f-Q7E6FRys1tAAJ6BQACvyU4RZqJmYvdCdV8NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBMWinKAYDZ7xIGYPvYou7y7guhVW1AAIZrzEbvyU4RZClRF0o4g-9AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 027",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBNGinKBGCdRMTpvIgdEMHR5VlbLvhAAJ7BQACvyU4RYUuBYZnSAaUNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBM2inKA3rltVo9ATDcn31rWiyoA9uAAIarzEbvyU4Raa7MtSTD_nZAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 028",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBNminKBds8ZLlcAaobapAs4zWu6BXAAJ8BQACvyU4RQQNcLjeaKxdNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBNWinKBPqjoEjLryKVpTxw-9aeaCzAAIbrzEbvyU4RdM8o0qcRSAeAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 030",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBOGinKB0hrak-PixOyc0-NnyzG2SDAAJ9BQACvyU4RT_Xv6qj2egVNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBN2inKBn5v11P9oSBiw9se0Lsl9_eAAIcrzEbvyU4RXbyJmj8z7F9AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 031",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBOminKCK-QKvDYuyHo0XpLwwjgFD0AAJ-BQACvyU4RW0b9z7s2zX9NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBOWinKB-2xroz_aUubrbIPbid8oO2AAIdrzEbvyU4Rfjro9XJvcJTAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 032",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBPGinKCmocMhswK2psZ16MTt84DSDAAJ_BQACvyU4RZmYHWoBPFfjNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBO2inKCX5qaDLsX5k6Bg6cowpkhxPAAIerzEbvyU4RbYnf3CRv0jAAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2012",
+        "titulo": "American Vampire - 033",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBPminKC5cmZSplVNCF9dyrs3ikI8WAAKABQACvyU4RS3Cgcn7ua_rNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBPWinKCpYzamggZaoPZLvpOogOBrIAAIfrzEbvyU4RX2r6NYIt5iiAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2013",
+        "titulo": "American Vampire - 034",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBQGinKDTm-ItS6bCNLjMfimIAAVQ6AAOBBQACvyU4RYk60ZDAiCHkNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBP2inKDBo-T3kV-5UVIKIysy4SPFkAAIgrzEbvyU4Reb_TTaTJWDVAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 2010 (Vertigo) - 009",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBQminKDt2GzusDDL5Ligvkp-XSFkgAAKCBQACvyU4RdD1MX5Y0doMNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMUaKce_mvV66-ScdTzaf9wk7M6VowAAouuMRu_JThFc-2QFAZFWYoBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 2010 (Vertigo) - 010",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBRGinKEBAlf-TKFzxy6B6NgPcFqB5AAKDBQACvyU4RfeGxiG2d9JWNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMWaKcfA-fjtfEdxbBKQj-JFDncfocAAoyuMRu_JThFp3pbGtgHA2EBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 2010 (Vertigo) - 011",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBRminKEgebQRmefLzrXaDUbZCu_giAAKEBQACvyU4Rd4uNvuYi4wwNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAMYaKcfCPmDAxaUUVPAv5pP8zJfrcUAAo2uMRu_JThF7oGtzc8d8rEBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 2010 (Vertigo) - 012",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBSGinKE-ZmINwp13M4TKzoSD4BFNKAAKFBQACvyU4RZ4LvnV2ajgzNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBR2inKEvNn1_n4kd5v5y2EIbegegyAAIhrzEbvyU4RT-cXgyjFSAbAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "Vertigo (DC Comics)",
+        "heroi": "Skinner Sweet / Pearl Jones",
+        "saga": "Vampiro Americano",
+        "ano": "2011",
+        "titulo": "American Vampire - 2010 (Vertigo) - 013",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBSminKFbo1dAPke3T4NtuJctHaQABAgAChgUAAr8lOEWiL-s9egABcIk2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBSWinKFHTZuz86J3QiZ7S7RUDljAtAAIirzEbvyU4RTH4tW7kUM7XAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Aquaman e Os Outros",
+        "saga": "Os Novos 52",
+        "ano": "2014",
+        "titulo": "Aquaman e Outros 01 (2014)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBTGinKFkIzfJp2IbCJVaYGPUOG8GUAAKHBQACvyU4Rba_gUPOS0l-NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBS2inKFdOXUVeaGzs63ihNuDBkFxeAAIjrzEbvyU4RRXrtkhGoeUKAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Aquaman e Os Outros",
+        "saga": "Os Novos 52",
+        "ano": "2014",
+        "titulo": "Aquaman e Outros 02 (2014)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBTminKF3lxrfboTCDIPiS2Pf-RkbpAAKIBQACvyU4RdF1jyX9bnOtNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBTWinKFsK2LkHtkH4WndpYykQy9QAAySvMRu_JThFIeXo4SwHsO8BAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Aquaman e Os Outros",
+        "saga": "Os Novos 52",
+        "ano": "2014",
+        "titulo": "Aquaman e Outros 03 (2014)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBUGinKGBlpKxuGhApzWRULDsD09H_AAKJBQACvyU4RS0IZ00Kb1H9NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBT2inKF_CO2snhQuDh89ZVZMX64MwAAIlrzEbvyU4RdKbDopMqlwZAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Aquaman e Os Outros",
+        "saga": "Os Novos 52",
+        "ano": "2014",
+        "titulo": "Aquaman e Outros 04 (2014)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBUminKGOeV9awMLnboNiwCVeZNgvPAAKKBQACvyU4RULMW_WykpjmNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBUWinKGIsTtuAxhwXFM5BYRPdcddBAAImrzEbvyU4RdUa2bQN9b_iAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina / Hera Venenosa",
+        "saga": "Arlequina & Hera Venenosa",
+        "ano": "2019",
+        "titulo": "Arlequina Hera Venenosa 01",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBVGinKGsutursUL95ppgrr6mrWDPGAAKLBQACvyU4Rcmx-EaH9V8UNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBU2inKGdinubUGpjL6_OqPaqmNxlyAAInrzEbvyU4RRXrtkhGoeUKAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina / Hera Venenosa",
+        "saga": "Arlequina & Hera Venenosa",
+        "ano": "2019",
+        "titulo": "Arlequina Hera Venenosa 03",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBVminKHhqYsiufD1eP8WhT02KEUavAAKMBQACvyU4Rb0lSprVzicrNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBVWinKHNCqn-6ErGOofcFKwyCsLVHAAIorzEbvyU4RfXTl9yQsOyiAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics / Fleetway",
+        "heroi": "Batman / Juiz Dredd",
+        "saga": "Batman/Judge Dredd",
+        "ano": "1991",
+        "titulo": "Batman & Juiz Dredd - Julgamento de Gotham 01",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBWGinKICObwOeDqvPWpaZyEFpfZA9AAKNBQACvyU4RcPAlf-g9wZlNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBV2inKH1zTm5Z0fu-jRlv3XLbyPhDAAIprzEbvyU4RT0v_3IJ-y3RAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics / Fleetway",
+        "heroi": "Batman / Juiz Dredd",
+        "saga": "Batman/Judge Dredd",
+        "ano": "1991",
+        "titulo": "Batman & Juiz Dredd - Julgamento de Gotham 02",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBWminKISywJUXxOE8gXjYHLmKMw6qAAKOBQACvyU4RUMBk9Mf4nErNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBWWinKILJA9dVY3J1BeLc0ecyUPKrAAIqrzEbvyU4RdqTuRUR526fAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "A Queda do Morcego",
+        "ano": "1992",
+        "titulo": "Batman - 491",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBXGinKIdpv8Qb14tCvkg1YtVQYpD2AAKPBQACvyU4RcQgRMtPkhcONgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBW2inKIbbLECzKC_MjjumBdjlX4uHAAIrrzEbvyU4RYpBG6vohUVVAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "A Queda do Morcego",
+        "ano": "1993",
+        "titulo": "Batman - 492",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBXminKIqajomtgBMEmg_E7k1GL9uIAAKQBQACvyU4RTmjCvABHqBRNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBXWinKInzZrG_syyE3s2x4jZ_Ex9YAAIsrzEbvyU4RUj4auMsimh1AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics (Elseworlds)",
+        "heroi": "Batman (Vampiro)",
+        "saga": "Batman & Drácula (Trilogia)",
+        "ano": "1999",
+        "titulo": "Batman - Bruma Escarlate 2 de 2",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBYGinKI9_uuSvjMFa8hrkgoiVICiJAAKRBQACvyU4RREmTOOsGywxNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBX2inKIxrB8TfrIinfhLIxKFxfU4JAAItrzEbvyU4RZcPShAVcrAyAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics (Elseworlds)",
+        "heroi": "Batman (Vampiro)",
+        "saga": "Batman & Drácula (Trilogia)",
+        "ano": "1994",
+        "titulo": "Batman - Tempestade de Sangue 1 de 2",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBYminKJINqLe3EJvQy8N2-136alt0AAKSBQACvyU4RSFfKYmsfGFqNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBYWinKJDmahULhH3t5R3hucic2d86AAIurzEbvyU4RfHiHiPiRYOVAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics (Elseworlds)",
+        "heroi": "Batman (Vampiro)",
+        "saga": "Batman & Drácula (Trilogia)",
+        "ano": "1994",
+        "titulo": "Batman - Tempestade de Sangue 2 de 2",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBZGinKJb483AW0gphkRvkKFhhXtwcAAKTBQACvyU4RdVib3XIBPpZNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBY2inKJRksxi14u9ScKb21iXAoTDbAAIvrzEbvyU4RW6TgLsXsE3dAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Veneno",
+        "ano": "1991",
+        "titulo": "Batman - Veneno 1 de 5",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBZminKJnmI3PFTh1Mn5mHYwV56GmiAAKUBQACvyU4RbxaSARnWQ29NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBZWinKJjDu1odfojo0sxtSLY3ZG4yAAIwrzEbvyU4RQpagxZlFingAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Veneno",
+        "ano": "1991",
+        "titulo": "Batman - Veneno 2 de 5",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBaGinKJzGKDeeGaatoUPhhZk3OxxNAAKVBQACvyU4RYqrCsgPIyHnNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBZ2inKJt3aLyg_my4Sq7LNrMgN87dAAIxrzEbvyU4RSl2w9BEhRtvAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Veneno",
+        "ano": "1991",
+        "titulo": "Batman - Veneno 5 de 5",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBaminKKAWsBgeKRaLthRLKfZ5wg0iAAKWBQACvyU4RYXKC5IzU1fSNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBaWinKJ9vFs5M-7jUwSP2rO4rXJjbAAIyrzEbvyU4Rca2n6cd8-8AAQEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman: Europa",
+        "ano": "2016",
+        "titulo": "Batman Europa - 2016 (DC) - 003",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBbGinKMGX_nhRNZhKxQHltFXwxPe5AAKXBQACvyU4RcR5ypRNwu-LNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBa2inKL6hRFOUq-TWaU38jn-QnVhFAAIzrzEbvyU4RZyKxxhmDLvzAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman: Europa",
+        "ano": "2016",
+        "titulo": "Batman Europa - 2016 (DC) - 004",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBbminKMbv7Mvc7z5ih9UmXVJ9e30uAAKYBQACvyU4RQABYouRscG3wjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBbWinKMMdqD8D2XvV1dan1tnnKozQAAI0rzEbvyU4RRJl7VQUVWnuAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "A Queda do Morcego",
+        "ano": "1993",
+        "titulo": "Batman Shadow of the Bat - 016",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBcGinKMkaol0s2304b_snMDwlPvvDAAKZBQACvyU4RTd5MOvBSh9bNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBb2inKMjdBljmhTV-8OcbZzNQ0UXRAAI1rzEbvyU4RXwwdza9uhzuAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "A Queda do Morcego",
+        "ano": "1993",
+        "titulo": "Batman Shadow of the Bat - 017",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBcminKM3-JE5vD7H9-fuqDBGde4AnAAKaBQACvyU4RcfzLu1fTd7GNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBcWinKMwlRkA6SUSwSuGbIGKD08d-AAI2rzEbvyU4Rd-GihiiVGGNAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "A Queda do Morcego",
+        "ano": "1993",
+        "titulo": "Batman Shadow of the Bat - 018",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBdGinKNEva9JxxXCnLOSLwiZYvj2QAAKbBQACvyU4RcwG9ko3f5jBNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBc2inKM-3E4Z3pDJ1mf27-KQxaLQaAAI3rzEbvyU4RSl5VUk_R7o5AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics / IDW Publishing",
+        "heroi": "Batman / Tartarugas Ninja",
+        "saga": "Batman/Teenage Mutant Ninja Turtles",
+        "ano": "2016",
+        "titulo": "Batman Teenage Mutant Ninja Turtles - 002",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBdminKNb-CzgWy2BFqKbvK7Eu1An4AAKcBQACvyU4Rfbx1s_QpgTZNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBdWinKNSD0qZI8RhSYHiZwXW30D6VAAI4rzEbvyU4Rbmo1DP1tHIPAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics / IDW Publishing",
+        "heroi": "Batman / Tartarugas Ninja",
+        "saga": "Batman/Teenage Mutant Ninja Turtles",
+        "ano": "2016",
+        "titulo": "Batman Teenage Mutant Ninja Turtles - 003",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBeGinKN1Mxg-kmi8oA8PH8qxyOu18AAKdBQACvyU4RVqRAAFDzaUVgzYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBd2inKNkIVpBSsM-QlolQgCzNRBC3AAI5rzEbvyU4RWyF097xDOq5AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics / IDW Publishing",
+        "heroi": "Batman / Tartarugas Ninja",
+        "saga": "Batman/Teenage Mutant Ninja Turtles",
+        "ano": "2016",
+        "titulo": "Batman Teenage Mutant Ninja Turtles - 004",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBeminKOOuibu6o-lyMd6vWHkHUfWfAAKeBQACvyU4Re-KZLNoSHJjNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBeWinKOBphCjZZu0F8e77NQV0Qj6TAAI6rzEbvyU4Raf3Bpu6RbZPAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics / IDW Publishing",
+        "heroi": "Batman / Tartarugas Ninja",
+        "saga": "Batman/Teenage Mutant Ninja Turtles",
+        "ano": "2016",
+        "titulo": "Batman Teenage Mutant Ninja Turtles - 005",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBfGinKOoMgQrLSpSCTy7h-gQh-UYdAAKfBQACvyU4Rf3bwwpcceP7NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBe2inKOZzbnb2rZi9EVkhGr2JVtKfAAI7rzEbvyU4RVeiyM9O4UQPAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics / IDW Publishing",
+        "heroi": "Batman / Tartarugas Ninja",
+        "saga": "Batman/Teenage Mutant Ninja Turtles",
+        "ano": "2016",
+        "titulo": "Batman Teenage Mutant Ninja Turtles - 006",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBfminKPGOq-1C053oaoDCVBNxYCvMAAKgBQACvyU4RXMhitT3Zm52NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBfWinKO1AD3yw5f2VXOE9Wh93sNW1AAI8rzEbvyU4RXchpQLuJXaLAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics / IDW Publishing",
+        "heroi": "Batman / Tartarugas Ninja",
+        "saga": "Batman/Teenage Mutant Ninja Turtles",
+        "ano": "2015",
+        "titulo": "BatmanTeenage Mutant Ninja Turtles - 2016 (DC) (IDW) - 001",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBgGinKP39x3WaogXSAn9DmAXH_s2eAAKhBQACvyU4RW3fjFTjTiE2NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBf2inKPrYyIpIqt6xorc4rsJeA_CAAAI9rzEbvyU4RRDiTDbxfFbJAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman: Filho do Demônio",
+        "ano": "1987",
+        "titulo": "Batman Filho do Demônio",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBgminKQJ5X_mwqjZ-6B0tRFedW0lLAAKiBQACvyU4RXWsPczWJu1nNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBgWinKP8YwUUyhAbwzMfIoaNdHBehAAI-rzEbvyU4RfcVuOw_L41ZAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 02",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBhGinKQbzn8CkmaCG9QH5EuohJJUqAAKjBQACvyU4RTiisFDhgwkQNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBg2inKQRPgMJxosaM87qdnh1HQB3NAAI_rzEbvyU4RV2tIiiTGfcUAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 03",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBhminKQp04CwJuhBoKRTDaDxGGbgDAAKkBQACvyU4RT8rY_NWLNqaNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBhWinKQhPvKycv8Lhj_wS-29_w2kEAAJArzEbvyU4RVM3kFOUoJJ_AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 07",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBiGinKQ1Khhq6HdJMHYTzgoxKKczeAAKlBQACvyU4RXoCglwomGfjNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBh2inKQyJNd4lf7KNOszDkSygaYKwAAJBrzEbvyU4RQPoVYcnR-ySAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 08",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBiminKRAmqNvG-aSQHryFTK65hf6RAAKmBQACvyU4RWCsXR6RXoHLNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBiWinKQ9HsFw7uDJ_aJO9X4oN01ufAAJCrzEbvyU4RZWFQ0nAmE5dAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 09",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBjGinKRT1rBMpRDFOMhWZryp0B6w4AAKnBQACvyU4RVc1fe9Ge40KNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBi2inKRIDGuWQvWI5MmOY06kzVYajAAJDrzEbvyU4RfYqlUtfU0XiAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 10",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBjminKRoxSs285KENVbj2JMEAAfC7cAACqAUAAr8lOEWtS1NvR-o59zYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBjWinKRf2xqt0GQgogsqI0jh9gx5mAAJErzEbvyU4RV1a6UfPw7MPAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 11",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBkGinKR3vQSfyp6k9F3REVDNlGex5AAKpBQACvyU4RadXoFdDxZliNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBj2inKRzch1elpEUlhPbB4LXhiOghAAJFrzEbvyU4RZZ_0RmJP6EbAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 12",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBkminKSHq_DyPqIN4C8vab5NWz3USAAKqBQACvyU4RYKdbCMt08xlNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBkWinKR9cOJK5IsAKXupNcApT82knAAJGrzEbvyU4RdAyIGP0qYwKAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 14",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBlGinKT1pVKVRn2aul-Esi1YpTVtxAAKrBQACvyU4RY6yTle82W9ENgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBk2inKTrewY16F1FCEZ891Lwi7WL6AAJHrzEbvyU4RfcrqkTGZColAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 15",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBlminKUALGltrqlJTRS9NMnWGR-eXAAKsBQACvyU4RUzneSk9Iu-8NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBlWinKT_YI72qUZw_Rw6EPLGzZuqlAAJIrzEbvyU4RZQj6_WuPZvBAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 16",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBmGinKUag9plTStXaOc4Uxd_pu6bjAAKtBQACvyU4RYi1GZ49QIAoNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBl2inKUMREmlHJBnc0VegGSHI6MgaAAJJrzEbvyU4RUFDiINUQtfIAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 17",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBmminKUt1TAbSi_FJFC-TpaOIxRsRAAKuBQACvyU4Rev0WyulFzuFNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBmWinKUlHSjQRymdniD8RzcfkqhhMAAJKrzEbvyU4RfnpmGCfHE3LAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 18",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBnGinKVIkibsH4Ksux2EeQ_P1VXLKAAKvBQACvyU4RWMJUAjFEORHNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBm2inKU55QN2QXUsF_9tFdD-KXpUcAAJLrzEbvyU4RQEa_FRJuTseAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 19",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBnminKVf5BLiofHl6BwEWdp1CjejNAAKwBQACvyU4RciDNg-OX38VNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBnWinKVTWbdkZduCYBc4TtD7rCXMGAAJMrzEbvyU4RbJqB3FauCBGAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 20",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBoGinKV2Q8n-JdQrdst_8EGK6aXXnAAKxBQACvyU4RZxdXrF_jJ5CNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBn2inKVnNrVl2DBuhQKO18IusKtDQAAJNrzEbvyU4RT2SNPXdtYkFAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 21",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBominKWRqytP2PLBm4pAkJ1AfCDFJAAKyBQACvyU4RXhH8EfH7B3sNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBoWinKWEF1r_8UN2fjPPSBEhd1BD8AAJOrzEbvyU4RdbevtI9yDmvAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 22",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBpGinKWtkZpXSpylu41TH-LgaVAP1AAKzBQACvyU4RU-3vOzt1HFNNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBo2inKWd8BhkH5I378vhPm73iuaBAAAJPrzEbvyU4RT7GW_sK2hMGAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 24",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBpminKXLCiIIVVuv5cRkr2z1Xn7ROAAK0BQACvyU4RUzRseD-ryhDNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBpWinKW-ENMaDj-HgwCW4Ma1kRetlAAJQrzEbvyU4RZtLKX2ep6nvAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 27",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBqGinKX8QNeKGiUBZ_hSQhPM4X1_BAAK2BQACvyU4RaxBIYhRFBmMNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBp2inKXsHoYLGnQWOljZXWyyIbk3fAAJRrzEbvyU4RfxMYoyQ92RWAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 31",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBqminKYgL_JrwPzKMp70mZ5ihcoCzAAK3BQACvyU4RUempDNTWqVyNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBqWinKYeSOR0T0Pt7IEw0wDLEJwABGgACUq8xG78lOEWu9wABZxyPf_gBAAMCAAN4AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 32",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBrGinKYz49QFEloWqeqem240iaepaAAK4BQACvyU4RXNH0LpR_3tVNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBq2inKYp6SBZwg_bjrjdJxkV6cO0jAAJTrzEbvyU4RbHQDHmYwLTwAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBrminKY8caIxH4eAgKGjr-PLzMbmaAAK5BQACvyU4Rd2I8dDPaN0sNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBrWinKY6aR_U3JbwDMDdZN8XfJ0H8AAJUrzEbvyU4RaBr_cinuvFVAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 34",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBsGinKZJzViwwwafLAYPwt1QjxJ5YAAK6BQACvyU4RfQsZjqFFh-JNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBr2inKZHEe9CGro7m5hB2M4IiNf5bAAJVrzEbvyU4RZbJ1aiw4NRLAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 35",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBsminKZarfrYywCq2EF84p9mld5V1AAK7BQACvyU4RSntP-SB0444NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBsWinKZRWKq-qm9xbVJP8s6oxgnS9AAJWrzEbvyU4RbDgL6yQqX41AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 36",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBtGinKZm-dFn5gTvTwrjtyfDtRLB1AAK8BQACvyU4RZrnNXSqn_FBNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBs2inKZhSdG4oPK-xz4MBw7kjm6HRAAJXrzEbvyU4RbQZqFX05ZdgAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 37",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBtminKZxyQ0tx_mwvjzEDbkkpDzsRAAK9BQACvyU4RZrpXCJ1CeTWNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBtWinKZv4EaTjKmhOXYomn-O82nB2AAJYrzEbvyU4Rd3nt_0Es7phAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 39",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBuGinKZ_KoIb41USYd8Ot1hzhJ0DLAAK-BQACvyU4RcJ50NVuIcumNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBt2inKZ7YkGz5PJ-Tbg8NR39EuGAYAAJZrzEbvyU4RbgKpTm-nE87AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 40",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBuminKaLyzx5KWlxUcKu1vVG0VtInAAK_BQACvyU4RdpfsgRzmCQjNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBuWinKaE3kP9MtyKLLyKLLG84IWzdAAJarzEbvyU4RWQDOUPcDsX5AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 42",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBvGinKb6U7OMZEKpmhX3hfmYUuZUmAALABQACvyU4RR6-DAltylQcNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBu2inKbzU3bizY0See5x0PUHnbegyAAJbrzEbvyU4RVInxNFP7HxQAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 43",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBvminKcCPkyBxIjqxQ9u0r5rOjXKtAALBBgACvyU4RUDK1AwjL9N2NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBvWinKb9KakOi31gd6olprGTmDP7DAAJcrzEbvyU4RUOoFGBy8c2dAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 44",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBwGinKcN0Q1OIcJ_IrWe5BJhjf5M3AALCBgACvyU4Ra1LAwgaOKF6NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBv2inKcKx-28ZhgoVPbhZ_CeOEtitAAJdrzEbvyU4Rdh51qK9cjT5AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 45",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBwminKcbVSl8_MjadPZfOkDvLpzJvAALDBgACvyU4RTj0x9QS1LuDNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBwWinKcU4SqmdM67DSXcf-VnRfvzrAAJerzEbvyU4RbrJVsdJsBg_AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 46",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBxGinKcpCXmf1SB8nsLmjaMSElmNFAALEBgACvyU4RbL6FOM4rvCRNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBw2inKcju3ltl9Mwud2fXRPWMsyPcAAJfrzEbvyU4RTHI2RqRDAsPAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 47",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBxminKc3ji1I2QLtYt91y1Yjx6r5yAALFBgACvyU4RZWyNHqL47bzNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBxWinKczw2fvF3DQb27LupcFgEbP1AAJgrzEbvyU4RSoBgYNAvJMlAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 48",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIByGinKdAfI4Wvcn_3cq5k_NHSoTkuAALGBgACvyU4RQw5r1aPWD1ZNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBx2inKc_Rb2HdKCSt4oO_4CApnjXFAAJhrzEbvyU4RdUvULJFgAo_AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 49",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIByminKdNcIhNEiDZh_t6nZEaBtiprAALHBgACvyU4RRwa8j7GcLxyNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIByWinKdJ2loNZFOrhaLONwIzqaLUZAAJirzEbvyU4RZNghLKBJqeZAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 50",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBzGinKdbqEd2vYSgR987ZZhZ6uNRJAALIBgACvyU4RZaNAAFlpxzpVTYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBy2inKdUoAbnMdKL__0OmjaQdEwq3AAJjrzEbvyU4RbIgUKPTQZveAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Batman Eterno",
+        "ano": "2014",
+        "titulo": "Batman Eterno 52",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIBzminKdouR1D2VXP51oTn5LvqeNyXAALJBgACvyU4RVLo6DuOy5FxNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBzWinKdjFM7Lihai7kxKHwzIAAfeg9wACZK8xG78lOEXL11-5gCewxQEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "O Longo Dia das Bruxas",
+        "ano": "1996",
+        "titulo": "O Longo Dia das Bruxas #01",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB0GinKf9HEfyG4cl2j3CNL2lbVDCjAALKBgACvyU4RbW31A9LNIDrNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIBz2inKfw5l3GqgzbYNMtEvyodSd_uAAJlrzEbvyU4RVVQo9m_32KjAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "O Longo Dia das Bruxas",
+        "ano": "1996",
+        "titulo": "O Longo Dia das Bruxas #02",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB0minKgONZTHrR_KDARNz0jaPfp4iAALLBgACvyU4RZ_eGrqTuGx8NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB0WinKgFQZgZDAAGWDXbZcssydIJv9AACZq8xG78lOEXSf2NaHCws5QEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "O Longo Dia das Bruxas",
+        "ano": "1996",
+        "titulo": "O Longo Dia das Bruxas #03",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB1GinKghZcNNP7ryRG1peu3pBS4quAALMBgACvyU4RUz3x712U8MZNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB02inKgXEKcLOZ4dSGQyOUSunagAB-wACZ68xG78lOEVWS5CkuBSDiAEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "O Longo Dia das Bruxas",
+        "ano": "1996",
+        "titulo": "O Longo Dia das Bruxas #04",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB1minKguzOH9tIP87Xriogl6CkNNWAALNBgACvyU4Re8MU4F9e3mZNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB1WinKgm9n5sKZXRY62D3Lr4ZluKJAAJorzEbvyU4RYWksHK3EfnPAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "O Longo Dia das Bruxas",
+        "ano": "1996",
+        "titulo": "O Longo Dia das Bruxas #05",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB2GinKg6c4C_gGFpwBnuA_hHwM1LdAALOBgACvyU4RTXgQOwSbF0INgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB12inKg3TAZFtTZ7H087uHJ3PZTdnAAJprzEbvyU4RYWLWhJWxstjAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "O Longo Dia das Bruxas",
+        "ano": "1996",
+        "titulo": "O Longo Dia das Bruxas #06",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB2minKhM5jUpsl5AGCfIb5Ub17YWTAALPBgACvyU4Rf8nfekpyvBUNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB2WinKhCapqlBv_xQw1umI3H_-YvlAAJqrzEbvyU4RWRK0VrxWoYZAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "O Longo Dia das Bruxas",
+        "ano": "1996",
+        "titulo": "O Longo Dia das Bruxas #07",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB3GinKhZ2av3Rxz4UcpFJsxA4We2NAALQBgACvyU4RTp3HF6f66JFNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB22inKhSG0SBXJ23Q8wgJYhkrmiTtAAJrrzEbvyU4RSD91jhYvBLCAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "O Longo Dia das Bruxas",
+        "ano": "1996",
+        "titulo": "O Longo Dia das Bruxas #08",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB3minKhrr2F8c5KloMljABL4FdX4IAALRBQACvyU4RVaIlPS-KQg6NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB3WinKhi3GKPrWpq2WNan-1hF9fiIAAJsrzEbvyU4RTflXJWQEPKJAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Cavaleiros das Trevas de Aço",
+        "ano": "2021",
+        "titulo": "1 - Cavaleiros das Trevas de Aço",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB4GinKh34m6H6zSMc4lHsCgSKZLOnAALSBQACvyU4RZ_kz0Q0nKpgNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB32inKhzI6VAyy3bgXOOdPTp1OhYJAAJtrzEbvyU4RZXFRLxqtlrGAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2011",
+        "titulo": "Caçadora #01 de 06 (2011) (DarkseiDClub)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB4minKiITR0IuR7eXqAAB2BIiNCnOUQAC0wUAAr8lOEUcuQ6QFCXTSDYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB4WinKiBudnb-tmw2_bNYJm5_4vRjAAJurzEbvyU4Re09WRe1kxWwAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2011",
+        "titulo": "Caçadora #03 de 06 (2011) (DarkseiDClub)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB5GinKkAZveup8x95dgVrKHXqPBwiAALUBQACvyU4ReS6Xye8wJXmNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB42inKj5HowJvZpwW18KN43x8op2SAAJvrzEbvyU4RbnXOcsFHVw0AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2012",
+        "titulo": "Caçadora #04 de 06 (2012) (Tropa BR - Renegados)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB5minKkUX-wd8gWsN0ny31yUcBHkkAALVBQACvyU4RXjXqiVhN2r0NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB5WinKkLKfQxqDYhLefgNCi-TpNMFAAJwrzEbvyU4RSzAm0v2soZBAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2012",
+        "titulo": "Caçadora #05 de 06 (2012) (Tropa BR - Renegados)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB6GinKkoqcHf4kXXy_gp49gABfKNCWwAC1gUAAr8lOEXHB-5EnlpqKzYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB52inKkfxhBT5hJw8qCCxpaF6NdtYAAJxrzEbvyU4RVe_BcvOPvkOAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2012",
+        "titulo": "Caçadora #06 de 06 (2012) (Tropa BR - Renegados)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB6minKk8puTmRk2-fzOlQdckNXAABNwAC1wUAAr8lOEWxrJ0mK4tYWTYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB6WinKk2UDuy-aCX1uhYzAlgjBLSoAAJyrzEbvyU4RUSJ9afcU4ulAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2011",
+        "titulo": "01",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB7GinKlOaMMS5ayD414XWRAiNufJFAALYBQACvyU4Rdq6-4vequvbNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB4WinKiBudnb-tmw2_bNYJm5_4vRjAAJurzEbvyU4Re09WRe1kxWwAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2011",
+        "titulo": "02",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB7minKlc1sdlMFYhjnN5rzO3ev8KPAALZBQACvyU4RalPdXkNkYa8NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB7WinKlUAAUgnZwwCEM1LR_k-CpLrNgACc68xG78lOEWTUcPZG4_J_QEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2011",
+        "titulo": "03",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB8GinKlpPnMTAx6MzrKfORujopUHoAALaBQACvyU4RQpJV2wUHncINgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB72inKlh3T7POy_5KL19EcNnLsxUkAAJ0rzEbvyU4RVBqzUMMGVNRAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2012",
+        "titulo": "04",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB8minKl7r4x479yat_gfn-AVfwrV7AALbBQACvyU4RU7VGI3Q-mTXNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB8WinKlyZh1iPDLZiTEAFKkMB0CTlAAJ1rzEbvyU4Rcte6mKruOpEAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2012",
+        "titulo": "05",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB9GinKmO-WYgkA7K5z-eFWMdCJbAdAALcBQACvyU4RSpURRcS6qmWNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB82inKmCNSB9rhnSwgY-6HOdmqkgsAAJ2rzEbvyU4RYlMoDbKm67WAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Caçadora",
+        "saga": "Caçadora (minissérie)",
+        "ano": "2012",
+        "titulo": "06",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB9minKmffMTGy_5W_WNFEUjpFIKS6AALdBQACvyU4RUTTb9pj7whKNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB9WinKmU2carAaMMPkeaSSsHaSFzLAAJ3rzEbvyU4RZO5me454TqtAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 01 de 33 ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB-GinKoNKNlHX5TyWxYSGU-tBoCrsAALeBQACvyU4RZy2wPQ5Lv7MNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB92inKn4Vn-kuC7_grxaeVqyppdIRAAJ4rzEbvyU4RVAc2rWBl_b7AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 02 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB-minKoZarQc9P3crjcHFAfS3Y6fkAALfBQACvyU4RdgiQojr1acRNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB-WinKoRuOTm7sNJ3ESfDN1iCH5viAAJ5rzEbvyU4RaTWEpg29BIgAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 03 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB_GinKom7ZX7VC5ohb1d8n0ocbUseAALgBQACvyU4RWpsYRZNtt6TNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB-2inKogfHyTmFns2_FwKKKHGa_BZAAJ6rzEbvyU4RbU1Dcl5zT1oAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 04 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIB_minKoyqF6rHOUcx3OT5RZ3ufJtaAALhBQACvyU4RS6WigrswnWeNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB_WinKouhS89RDAiAgUNJjK34cDJHAAJ7rzEbvyU4RXXlvd2jg5t8AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 05 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICAAFopyqPTiEQD1HBi5NlpqoAAV0yTzkAAuIFAAK_JThFKLMEPmxYmG02BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIB_2inKo63_Ij7oltcIkoUnUavDsxwAAJ8rzEbvyU4RSed1TfoRFUQAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 06 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICAminKpNUH2o-LlHOVo_dYn37xmhvAALjBQACvyU4Rf-vgMo6AWXGNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICAWinKpGvgX3gtCokIshBoMMg5OI6AAJ9rzEbvyU4RX-YSt0kNdKDAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 07 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICBGinKpfjgw2HN0g0PQUjHjSXmA3HAALkBQACvyU4RX7UId-0y4fANgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICA2inKpXmrJJ0uzZ2oia2r-uI5rykAAJ-rzEbvyU4RU0SFph_TkXoAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 08 de 33 ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICBminKpqB4f-EcljUoDDExcMh9QgyAALlBQACvyU4RZQZ5bq7DK9QNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICBWinKpm0rV7YgOQojphgoadWE6AcAAJ_rzEbvyU4RZS_133tQiz0AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 09 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICCGinKp0JfSUWF6SnxEKbr1MoauB7AALmBQACvyU4RVZSPTvGab-8NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICB2inKpw1wxYU50DLkpMT9OEPpEENAAKArzEbvyU4RfD7rYi1TcNbAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 10 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICCminKqCiwL64p0VrN6JhEsTqWOAaAALnBQACvyU4RVY-0iSMsdoNNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICCWinKp9xgpPGe8ZoLvS5u1Zr06cFAAKBrzEbvyU4ReesReFGyfXfAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 12 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICDGinKsCqceXgcdN5sWKfgfazl1nkAALoBQACvyU4RTGe6Cv-0rGYNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICC2inKr_Ebl1xB6c2Gh_d1hnbJ3LDAAKCrzEbvyU4RcnyH2-ceBnyAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 13 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICDminKsSfg1sbX0k17zOeWe-ridEkAALpBQACvyU4Re7BGnzjyD9dNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICDWinKsIyDN1xPj3g67Dson1lVUUUAAKDrzEbvyU4RSeAsp9LoNZVAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 14 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICEGinKsepb5DPggABeJ0nRc95oEl9rgAC6gUAAr8lOEXjFyRN1kgjVjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICD2inKsYxuZrC66sY_dsSL-gDftvQAAKErzEbvyU4RWxz5A4e5vMKAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 15 de 33 ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICEminKsw-HvWEKwI6GxSuPlY8VGg8AALrBQACvyU4RWx6IbdrU70nNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICEWinKsp5HTb1DDO4apZ15xnYzbVvAAKFrzEbvyU4RXc1f0gyNsdJAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 16 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICFGinKs_DvlBtuu9IaR3By4aw-rh6AALsBQACvyU4Rc7cYFvKmvoPNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICE2inKs5nK9_Dmvl_uvoefAABHKpQwAAChq8xG78lOEXDL0SVLaaw-QEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 17 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICFminKtLGHiy9TkHLPg4I2RabptFEAALtBQACvyU4RaGl7PSspPSLNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICFWinKtE3YAp8oo2kYXFjrf5czDonAAKHrzEbvyU4RdCiDh7KMJXGAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 18 de 33 ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICGGinKtaa4WHuudgdO4-oGWdyzf3sAALuBQACvyU4RTo1n02g7gciNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICF2inKtQ_moEmH9M016PTaHDhxxPJAAKIrzEbvyU4RXuw-D070scTAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 19 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICGminKthaevmx8nh8SmMYGbtreXgBAALvBQACvyU4RTVeYau6Mp04NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICGWinKtenRJTmX1tGzpdMiOY8KpznAAKJrzEbvyU4RciCcs137GkHAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 20 de 33 ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICHGinKt1RVpySyanqFeSSC00Fwf_7AALwBQACvyU4Rf4U9tDxyVYNNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICG2inKtpoUp0JCx2DoNM65uBdbT0_AAKKrzEbvyU4RbEYB1xrTo67AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 21 de 33 ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICHminKuAoDn1pW8Wawca5km3bT4qvAALxBQACvyU4Rb_3Naa3-lobNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICHWinKt9GJC9IcqODJXrWtlNVJy1jAAKLrzEbvyU4Rb_3Naa3-lobNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 23 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICIGinKwFZb69lxPTGl4dE-pv8bf3uAALyBQACvyU4ReNee3stpCdHNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICH2inKv9CbvvWh-VWkawU1ov05FJTAAKMrzEbvyU4Rb0MoOloP21wAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 24 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICIminKwWIK2Eue9b2ubkdlrb68MYQAALzBQACvyU4RQrg79W2XeSYNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICIWinKwMvv2r6HVcbVp-K-myRSGDzAAKNrzEbvyU4Raj3tLMSsdq8AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 25 de 33 ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICJGinKwqhGf1f6Dzg58sfZIaIylC1AAL0BQACvyU4RcxjOYSDlbgjNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICI2inKwfgc0RSK3dc6KqoW-Pf6DeQAAKOrzEbvyU4RfzH6142VrzTAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 26 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICJminKw3a9OqfOJA3sUv4dOZ-rGSiAAL1BQACvyU4Rcjt1w14fSjmNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICJWinKwxkqQ6xJH0y8pNpgYAnHmvnAAKPrzEbvyU4RQhjWMFnd2zvAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 27 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICKGinKxE8mc5E5JBJAj4yjBZA_z4xAAL2BQACvyU4RaTm4hhPeq-PNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICJ2inKw_dY4DBUvzRKCPvOqFL7wKRAAKQrzEbvyU4Rejgv-s3ix2rAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 28 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICKminKxYuB1_mlJyhC1n634qsTLcvAAL3BQACvyU4Re8fQm9hm38mNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICKWinKxJt_MOMlrOZFylHvo8QNY3dAAKRrzEbvyU4RXMF-lL_lTzXAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 29 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICLGinKxqTHxjxgThqt-O_POE5JB9kAAL4BQACvyU4RcRQLn3Z3ptoNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICK2inKxhT3J-rVd3Ve7TmviJ5wUBgAAKSrzEbvyU4Re8-FHFL6DbSAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 30 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICLminKx3F2GBNR77qt3JRSh_RCxNwAAL5BQACvyU4RawTIeQMY-XhNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICLWinKxwUbK83wD72vl0Ip2TInV8VAAKTrzEbvyU4RZeqd6w9mLvLAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 31 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICMGinKyH69Fn35ypXYO4Fg8_cCzLsAAL6BQACvyU4RbA8q8p0lwftNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICL2inKx-HJCf-veCgd1kvE5mv7RryAAKUrzEbvyU4RciWt3cI3i-AAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "A Última Risada",
+        "ano": "2001",
+        "titulo": "Coringa - A Última Risada 32 de 33",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICMminKyRjsHSQfew7BDeY83Mcw8uoAAL7BQACvyU4RUoi8SvtcmfMNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICMWinKyNaffzj9mrtsJR_1vVKZhz_AAKVrzEbvyU4RVJeYsIZ0vl6AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "DCeased",
+        "ano": "2019",
+        "titulo": "Dceased #01",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICO2inK5CuWdAhhwzC0dJw2-mbVmqIAAL8BQACvyU4RS-k26-cc4HVNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICOminK41DcO4cF963f6JPnm0JoCCXAAKdrzEbvyU4RTOQ5uWZQfA4AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "DCeased",
+        "ano": "2019",
+        "titulo": "Dceased #02",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICPWinK5TLbJ9idRksFAiTQdAtMeVwAAL9BQACvyU4ReLyxLlZOyq-NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICPGinK5LiOEU38PexZGHkHGd8wfqNAAKerzEbvyU4RZHh2kf5r_O5AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "DCeased",
+        "ano": "2019",
+        "titulo": "Dceased #03",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICP2inK5oTngjCYQKHcTT04nznSp6zAAL-BQACvyU4RVD0XAbno_KrNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICPminK5gKaHrcYG7MI06sx8JFN4ZJAAKfrzEbvyU4RbVvKzrSY_rbAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "DCeased",
+        "ano": "2019",
+        "titulo": "Dceased #04",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICQWinK5-RUmtmz9KUTASPQVvXAf6CAAL_BQACvyU4RXpScJG_VBhRNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICQGinK51hm7U_2kzzDYfJjpVz8rU1AAKgrzEbvyU4RVYlcmtxP24uAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "DCeased",
+        "ano": "2019",
+        "titulo": "Dceased #05",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICQ2inK6WqgevrVIRMdy3DAc1eXT3rAAMGAAK_JThFme6g5mdOurI2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICQminK6I5S21SLsTQaQ4c6oAeBlYTAAKhrzEbvyU4RSNZlOK2u5ZtAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "DCeased",
+        "ano": "2019",
+        "titulo": "Dceased #06",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICRWinK6wVJgEgdksSAiRZEdOyUaxrAAIBBgACvyU4RYoycyLVwuv6NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICRGinK6jZyems1hyvd_qgqbGJWKWXAAKirzEbvyU4RUmUzTAlv2xKAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "DCeased",
+        "ano": "2019",
+        "titulo": "Dceased - Um bom dia para morrer",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICR2inK7KYaHKywOOoNdQyK93EAQbiAAICBgACvyU4RchDZBZS2qAyNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICRminK67CCK3FPRjnnckcC275mOeDAAKjrzEbvyU4RQQpAfFDomz_AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Batman",
+        "saga": "Não especificado",
+        "ano": "1940",
+        "titulo": "Detective Comics - 1937 (DC) - 038",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICSWinK72ISNgUzp1IXHbguB-Oi8_aAAIDBgACvyU4RdG_YhjPAAE5ujYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICSGinK7y8-mNYiawyn5245vlFYAnjAAKkrzEbvyU4RbtBqz2LOwV3AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "13 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICS2inK8PmNNfNYmYDplnumKJnfq_6AAIEBgACvyU4RW9sNfrHffLENgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICSminK8Bi3zUo3AuZB6exqX7Irk6sAAKlrzEbvyU4RdamjHLtHbJnAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "14 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICTWinK8id8R-db1fjPS5asWX96Kb_AAIFBgACvyU4RTvk1DP6FGOBNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICTGinK8XHuYYLvkO_s-fgUcM1uV8mAAKmrzEbvyU4RRZiCrvkGuTtAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "16 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICT2inK8yXqmlyJZUkSyVBuL0vnHDhAAIGBgACvyU4RQmPfh-S8WVhNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICTminK8p8IKG0CgIkkxFyMsxIScZVAAKnrzEbvyU4RQTf2NkRVGidAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "17 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICUWinK9HOjwoyYmORdfm_KPjjMH-dAAIHBgACvyU4RZ3qInLh9fr2NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICUGinK89_FWeoGeURtcOkXngFemSnAAKorzEbvyU4RZ4yKewqSPjdAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "18 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICU2inK9e2-t3J7Tu0jL7GWQS00e1WAAIIBgACvyU4Re-9951P-qWhNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICUminK9T8J22ajOQi40w4Cj0GI5ZfAAKprzEbvyU4RVVFfY_5es0WAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "19 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICVWinK9xLYbzXboE9nrgFf77FCV3jAAIJBgACvyU4RRUo1GI03khMNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICVGinK9nZ93eCs2CKSefTnLcAAaci1gACqq8xG78lOEVd3XdEsCO7ogEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "20 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICV2inK-J4j1mZhxasbT_70UH1d4hYAAIKBgACvyU4RanrsreXEZ-BNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICVminK98xfAFuN6wQwWH_w1C_KTJBAAKrrzEbvyU4Ranr_eloG47IAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "21 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICWWinK-cI4ZogufMZf47NbW6pp_mWAAILBgACvyU4RdxGiAunRIP1NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICWGinK-Sy67qB_PJjmbMbgcA2RNwmAAKsrzEbvyU4ReCESxtWDoKXAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "22 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICW2inK--gwp2710DoXOOOIK_KVCczAAIMBgACvyU4RfW7vJniSjVWNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICWminK-po9lQU2YtZoVb5leWrBsJhAAKurzEbvyU4Rc2HcS3DASNxAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "23 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICXWinK_VDI_xPDbVqUyZ9AQMQZDuUAAINBgACvyU4RV8l3clrFJZGNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICXGinK_JC5pw7_eWYcLehRAdsO7UhAAKvrzEbvyU4RckrDssuD8AKAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "24 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICX2inK_v6UyQsmiG4RCT1V9fhwFaDAAIOBgACvyU4RRcTjZ8F7qMXNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICXminK_cjr_BRcc7AeXzbYHg2XOsaAAKwrzEbvyU4RbkXnP2XXPoDAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "25 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICYWinLAABu0FiKGFKCmLhVA20wPurygACDwYAAr8lOEVx0BzrOFTYgDYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICYGinK_0QR4Q_ghFEkOr4aNCQjJwvAAKxrzEbvyU4Rbqns0HpmzbiAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "26 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICY2inLAuqFINI_IxSJWo8TMoE-UCEAAIQBgACvyU4Rc6oXPkZoMScNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICYminLAk4LW2r3pCAq_yZsG14H1S2AAKzrzEbvyU4RWcxiSRgAAGkPwEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "27 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICZWinLBC_WhvkdwjyUozb9orCMQnQAAIRBgACvyU4RUkGlXNiH97GNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICZGinLA7OrPQWZfPLi_4cmPRyLH5ZAAK0rzEbvyU4RX_AlAABvM9GxwEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "28 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICZ2inLBUdiLZL6aviCWpM39O3DSfnAAISBgACvyU4RZEgubq6v1B6NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICZminLBIc3GaDlWXHbzSr_NCUFtc0AAK1rzEbvyU4RWlNpRteE1c_AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "29 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICaWinLBtpkad1Kfa01IAEC02Cr1xqAAITBgACvyU4Refa2upMLiLnNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICaGinLBc8JiX0cR_iO7_exviPx6oAA7avMRu_JThF-PJedDeJwscBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "30 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICa2inLCAu5_GxM3BfmUs78VxJ1g2ZAAIUBgACvyU4RXHDMqZc3g8vNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICaminLB0Rr-LHkiaahMLOZ15XhBSrAAK3rzEbvyU4Rb2_YzGtIGwvAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "31 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICbWinLCZT0UNRigsuz6s1OK-edptpAAIVBgACvyU4RZ6zGEh2wIZLNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICbGinLCIb2ZThzwkmhXuetw89qgErAAK4rzEbvyU4RUkTMeJaDnegAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "32 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICb2inLCzAi_ryMrmULVzIDsJ6vDBNAAIWBgACvyU4RYqW08OqSj7HNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICbminLCg-dS71COPgf-sxIDYsuQ8MAAK5rzEbvyU4RdjFKQeRgx5JAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "33 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICcWinLDMGgL9BSaikN2bIR_CKgYAoAAIXBgACvyU4RRZTBDnJ9cn0NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICcGinLC8piooz6C6gq9taDzjpjyztAAK6rzEbvyU4RWooa8TwnIQLAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "34 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICc2inLDiM7j29fTyJk81ur4B9Tv0NAAIYBgACvyU4RYmL3iNjRy2_NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICcminLDWrFiPpu-A1XrOoW_KiRShwAAK7rzEbvyU4ReziReUz1JhjAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "35 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICdWinLD3kXiB5mLY5YR3IKGmSga66AAIZBgACvyU4RX1LzguilvTmNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICdGinLDsYiJp1M1nQNflN5C93m_OaAAK8rzEbvyU4RX1ERqAjDHG3AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "36 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICd2inLEhTT_lLY359h1D5-E8BnReqAAIaBgACvyU4RQPYeSpZt2xTNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICdminLEVyE83L18hDaMssT77QaAABvgACva8xG78lOEV93PEcLGhdPwEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "37 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICeWinLE7dHFSnt10ZQnWf23io37J3AAIbBgACvyU4RactHv5M542zNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICeGinLEusnvJDe5jcWZZ4LQpCf3nRAAK-rzEbvyU4RVsXMA-iYAZ7AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "38 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICe2inLFTHUmJahNzw12I_KbrGr-uEAAIcBgACvyU4RaXH0Xs2U2RnNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICeminLFGJvMQz8QrymjOaeGoHE9p8AAK_rzEbvyU4RTdy8Mc_y8sjAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "39 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICfWinLFmDJc1lEJCRw6I-s84_X-qPAAIdBgACvyU4RYIajX-PUwdnNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICfGinLFYXr2y_8Hyz4-QkoONglA8jAALArzEbvyU4RVq08vIr8PylAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "40 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICf2inLF7Sd7T-HF6vxMOgLxH0bu9LAAIeBgACvyU4RVLPiutPezDqNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICfminLFwOKniAoFuKIFe4tTQ9s5OsAALBrzEbvyU4RXPlkJiDZ8zEAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "41 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICgWinLGVq_Zwr_oks_j79K2W_iiUDAAIfBgACvyU4RZu_gMoxTXufNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICgGinLGEHzw9O5lLKTZ9XUPWFAQ4OAALCrzEbvyU4RWuKYCYAAUZ_OwEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "42 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICg2inLGs_8Jg4bwYuxB6kR0ZBYGOOAAIgBgACvyU4RRKL8_sQtLIQNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICgminLGjqBsxzKcH8-wg9T5OvDLb8AALDrzEbvyU4RfOp6eLaLKenAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "43 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIChWinLHG3cw3I9G22gW3EPjF2klWPAAIhBgACvyU4RUN4nIa2_l-SNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIChGinLG5uyClPTXJjeH3T9Iu-6B8HAALErzEbvyU4RdSgjARObMLiAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "44 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICh2inLHdgoLPONis0H_-IHHe_ZOjmAAIiBgACvyU4Rcpe_gJjGbjCNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIChminLHPQB03dhyEFjsx4zc3f3wABXAACxa8xG78lOEW3TcAtOqsRzgEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "45 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICiWinLHw9VHoN2uzZjIUWY4SgaAEEAAIjBgACvyU4ReZ8Tq7Pb-RSNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICiGinLHmea4ozaYXMWvEMFA2s0MPHAALGrzEbvyU4RfmQXpWZx4aIAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "46 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICi2inLIdO_0N0jITSwqHufdAv_ws6AAIkBgACvyU4Ree4QptaclufNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICiminLIT1vXfS3MXH3MsvouD78FTeAALHrzEbvyU4RbruEo_l93MFAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "47 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICjWinLIyCGVrZ9hjKPNm_RsRkSNO-AAIlBgACvyU4RYfk5bJO0CZYNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICjGinLImSxUghBNUSTmiFiKU3zjkSAALIrzEbvyU4RRfuBAVpjp44AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "48 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICj2inLJJ6WySCPl_ziCAzx3cW7jDsAAImBgACvyU4RS65SYh5ZX9ZNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICjminLI5k9JFUFQUmYlfrbpKhyIJVAALJrzEbvyU4RWQtTdwft58rAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Os Novos 52 - Fim Dos Futuros",
+        "ano": "2014",
+        "titulo": "15 Os Novos 52 - Fim Dos Futuros",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICkWinLJiqE3aOXzKlrij5soRscjzcAAInBgACvyU4RWJvI2OuAAGNajYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICkGinLJWN2AWZjd1ZTCrVnmtHYaqKAALKrzEbvyU4RcwPYDDBL-hCAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "07",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICk2inLJwG--WQfVGD_eNvLMVkJzBqAAIoBgACvyU4RdOqBtWH4ojjNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOJaKclrjd_TmP3zLoeJXA6WUsMkooAAsOuMRu_JThFfdVwe31SCOUBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "08",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIClWinLKATY43UQOoWP9ikmYdMIITWAAIpBgACvyU4RYAwwJZXHq3HNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOLaKcltEvxq_dP58ZSGfJlE5LZPwADxK4xG78lOEXg-cJt1CcVQAEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "09",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICl2inLKQG17RcDULAjhgicjPdpsOGAAIqBgACvyU4RUwsGJet56M5NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIClminLKIX3GWY-M3EbdGD2Q_b9-6nAALLrzEbvyU4RU-Qyvm1pw4RAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "10",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICmWinLKitN2xtdIsvp5pw3CpdzOWdAAIrBgACvyU4RRWWkz2a7FFbNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAONaKcly5e202u4kuFQgxDyl3WiKukAAsWuMRu_JThFYHAoUFSn650BAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "11",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICm2inLLBLTfUzMjUDoXqdjXKd78t2AAIsBgACvyU4RQzsxDEs9qTwNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOPaKcl0e8onYS4Wgc0JV26w8HebUYAAsauMRu_JThFKXofMGZjpawBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "12",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICnWinLLQG6W3uh6no-cJucpWkmBNnAAItBgACvyU4RVJ1lc4laWZrNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAORaKcl1uxp0dmVO9ESokypYqdDPEcAAseuMRu_JThFUxm0nne4MQwBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "14",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICn2inLMheayM09A8Im89r2Dd5QKdFAAIuBgACvyU4RdY6rfeBWDBMNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOVaKcl4cimZ3wiRgnIuEDCfv-Fwt8AAsmuMRu_JThFu8rDjA0pPJwBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "15",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICoWinLM4DCUCx2FddnGZ01Zat0c9sAAIvBgACvyU4RVJm4om_5C1gNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOXaKcl5nA7vsr40KSGlZO17eQPedQAAsquMRu_JThF0V-QUzxHm7wBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "16",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICo2inLNLl72WprgrXpHoK9XXjen6DAAIwBgACvyU4ReO_XawilCIQNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOZaKcl7ENbSDVyVJWOe7-DuYmlmWYAAsuuMRu_JThFH4mUl_z6sZABAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "17",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICpWinLNcbzuPpU0KQ8A-_97okFoliAAIxBgACvyU4RfXKaSXA3_2GNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICpGinLNTZlf2KzC7TW9Hg1OLNoFqrAALMrzEbvyU4RTYC1bn6kz9_AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "18",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICp2inLNu8SofrzafPi01QMEcBEdrEAAIyBgACvyU4Raj7kNiI_GXrNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICpminLNmX7zXbCXZrBzMVaP61hLUMAALNrzEbvyU4ReOKBrXGh9t4AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "19",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICqWinLODZNtjHqzw0G10FrQKYq0LjAAIzBgACvyU4RTQmgICl_xGANgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICqGinLN2dRUcyDDLNla8zVObIj68oAALOrzEbvyU4RXX0ZqBqI0PJAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2010",
+        "titulo": "20",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICq2inLOTSLrvpjlgE6og-PNNTGPnlAAI0BgACvyU4RZY41pqqLlz9NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICqminLOGhzq2J9SyhUjG0mmsyW6nTAALPrzEbvyU4RWdjo0z_KNtbAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "21",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICrWinLOl6hdreTs9GLGsdMS8-6VFhAAI1BgACvyU4RYXXBP2Q-sq3NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICrGinLObdQObv9yQ-OMwJP4lE1BShAALQrzEbvyU4Rdy0HsVI3ogPAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "22",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICr2inLO6KJcqxEYlafqQGNoUdqgd2AAI2BgACvyU4RThN_hHyBqHINgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICrminLOo7Srk1bcZlg9wW5jX4XTq3AALRrzEbvyU4RcwLA0j-wZKHAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "23",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICsWinLPSwbf8YIdfaE7NwOiEbFHkAAzcGAAK_JThFE65XzYmmc_k2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOlaKcmFikDsDqq3sb6KkXA2pA4FmkAAtGuMRu_JThF_NcKS0biUuEBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "25",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICs2inLQmpWClr9ZJnb_pKLSJYdXJeAAI4BgACvyU4RXwwBrV1kWnNNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICsminLQWqFVDqOWoXyKyP94UgzIAWAALSrzEbvyU4RWmNJ2xgBrwcAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Arlequina, Mulher-Gato, Hera Venenosa",
+        "saga": "Sereias de Gotham",
+        "ano": "2011",
+        "titulo": "26",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICtWinLQ0ZllBmFrQfKGg4rbcf_wQYAAI5BgACvyU4Rc-DI71nPghVNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAOraKcmKOguVHFZ_xx3PSWqYeiclZoAAtSuMRu_JThF-Q_7OxcE92EBAAMCAAN3AAM2BA"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Shazam",
+        "saga": "Shazam: O Poder da Esperança",
+        "ano": "1998",
+        "titulo": "Shazam - O Poder da Esperança",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICuGinLRn5z1ZFMnKouigFIaBy8_UbAAI6BgACvyU4Rb_gWApVfu6tNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICt2inLRXb1UEStPRG4dhUV0xw34x9AALUrzEbvyU4RfaDyo5KVSWZAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Shazam",
+        "saga": "Não especificado",
+        "ano": "2021",
+        "titulo": "Shazam 04 de 04 (2021)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICuminLSydUxF4G0OZVRr8WFjISzlDAAI7BgACvyU4RUuICqBPjP0uNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICuWinLSZ6si9mPdjUoOnBpnGsUMToAALVrzEbvyU4ReHLVCD-_KRnAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman '78",
+        "ano": "2021",
+        "titulo": "Superman 78 01 (2021) (SQ_ZF)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICwGinLVhr7F2K9MA_2L8qYsu2RQQEAAI9BgACvyU4RZuh69WRx6d2NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICv2inLVPjuMZNleTZTFLOqKVoahb5AALarzEbvyU4RXLfFYp5UfmZAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman '78",
+        "ano": "2021",
+        "titulo": "Superman 78 02 (2021) (SQ_ZF)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICwminLV-vtt5pvOBqetrEFu5gJ5F4AAI-BgACvyU4RfCKuaLgV1brNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICwWinLVpaJ4IR7Xnt2S6yL4RDb2mLAALbrzEbvyU4RVakkSxuqsNeAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman '78",
+        "ano": "2022",
+        "titulo": "Superman 78 03 (2022) (SQ_ZF)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICxGinLWQAAdTMeUWD_WAPwxsoHU8GxQACPwYAAr8lOEUl5JBLG9sNAAE2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICw2inLWENcxzt4wABysKO9WUMT-vOhQAC3K8xG78lOEX4XcwoUiNzdAEAAwIAA3kAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman '78",
+        "ano": "2022",
+        "titulo": "Superman 78 04 (2022) (SQ_ZF)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICxminLWkC3HNG4zDOww0LRREM1l42AAJABgACvyU4RdcAAdTmyM9cAzYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICxWinLWXGlzvBpbMwkbB-sUbMsd8OAALdrzEbvyU4RS8PFfIqdS_zAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman '78",
+        "ano": "2022",
+        "titulo": "Superman 78 05 (2022) (SQ_ZF)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICyGinLW5bXEabVh2S9qlmD3d2C6LRAAJCBgACvyU4RZllPhEdgDfMNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICx2inLWorJRNyp4FWZ9ka97Di5w7CAALerzEbvyU4RbsaRvU3gzIbAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "Superman '78",
+        "ano": "2022",
+        "titulo": "Superman 78 06 (2022) (SQ_ZF)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICyminLXTlZJiDseS0gF-IpRmmbp63AAJDBgACvyU4RSDPc4oyCvbKNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICyWinLXAof4uZKGWTugqHYCngWlmGAALfrzEbvyU4RUCNUykgAv5SAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.01.de.12.HQ.BR.13MAI2004.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICzGinLXjo4Njb51yH33dZteXc7p2FAAJEBgACvyU4RY8HF48VX4Y_NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICy2inLXZJugXKfQWMDuUL0oh47LfIAALgrzEbvyU4RRZglHX4W0OAAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.02.de.12.HQ.BR.16JUN04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAICzminLXsrEx2vsGTtcq1aUGA3EBa1AAJFBgACvyU4Rc8kfm75v-GCNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICzWinLXpf57ImcTJFzTXB5X-w9JS_AALhrzEbvyU4Rb5rJpE6Zs5LAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.03.de.12.HQ.BR.26JUL04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC0GinLX7__J_uT1QqxL_pQvwQr9meAAJGBgACvyU4RWGW6aKOwOc4NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICz2inLX1WP6CgUObHiUNt5zMAAT4FggAC4q8xG78lOEWQ7Nsi5PF1PgEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.04.de.12.HQ.BR.13AGO04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC0minLYMnatE0y_5CAAFGz7CJggYFsQACRwYAAr8lOEWh9uSw4gABemI2BA",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC0WinLYIqoBv8reJC1rjtvF1dNh1LAALjrzEbvyU4RWf-fMeEGsY6AQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.05.de.12.HQ.BR.20SET04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC1GinLYZcVV76oz1V6nTsixcVpJ3jAAJIBgACvyU4RUAeQJxnJcQnNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC02inLYUWgzLueb42DWe3WhOmwD48AALkrzEbvyU4RalymMNorBCwAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.06.de.12.HQ.BR.20SET04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC1minLYl62ReKifCfgxPkza1uksVVAAJJBgACvyU4RTUb_cm_8aFyNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC1WinLYj0Qyvhjkugs5lgzJedCmzFAALlrzEbvyU4RStuhJwneDwgAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.07.de.12.HQ.BR.20SET04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC2GinLYsyZE8Qb1KmQmupmixTBP4kAAJKBgACvyU4RT_5QbKltSYkNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC12inLYr_x7-Hw8okSKL1i2jgtS43AALmrzEbvyU4RbwSUW9ssOZ8AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.08.de.12.HQ.BR.20SET04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC2minLY5WqOVf_2HJMOcpeijf-5mDAAJLBgACvyU4RVY35NohwfhbNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC2WinLY0PLEXBFhyEtwxDqSQ_Pg2jAALnrzEbvyU4RX0FUZpWervsAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.09.de.12.HQ.BR.26SET04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC3GinLZFLqYE8OQVwyvdOc9RSYtlUAAJMBgACvyU4RSi0OH0doXxlNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC22inLZCf-uiJQ_HZPcqWA1coE2WdAALorzEbvyU4RWH-jNJLc1OsAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.10.de.12.HQ.BR.26SET04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC3minLZTAwosz7WjgCoZIVnsJ4104AAJNBgACvyU4RfO8ECigpV5wNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC3WinLZNtDZGi2WPoEZ3vNjF1mOSBAALprzEbvyU4RQ0UN9vOvaE3AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.11.de.12.HQ.BR.01NOV04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC4GinLZcwJgKWBIcyscaphBuvxBoSAAJOBgACvyU4RWcr0xNyksDfNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC32inLZZgW_p6O_c0MyA-hfUGp0N6AALqrzEbvyU4RekhS666yNzPAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Superman",
+        "saga": "O Legado das Estrelas",
+        "ano": "2004",
+        "titulo": "Superman.O.Legado.das.Estrelas.12.de.12.HQ.BR.01NOV04.GibiHQ",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC4minLZsBBkmcV7rHdNdjWGeGamzlAAJPBgACvyU4RRONVmKB59ovNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC4WinLZlM-qrefZe0YWTbnW3SvpifAALrrzEbvyU4RYTlFokdJSTiAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Aquaman / Flash",
+        "saga": "Som do Vácuo",
+        "ano": "2006",
+        "titulo": "Aquaman e Flash - Som do Vacuo 01",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC5GinLaEL00mCXtZ40XKihjoNWpxPAAJQBgACvyU4RbrcaAOxrrpsNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC42inLZ2z85Q272WPQfQ8Zf6WN05cAALsrzEbvyU4ReAJnOpeqtTOAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 01 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC5minLcXx9bmspVqyc9uXxFR04CbqAAJRBgACvyU4RWpSyS7POyzONgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC5WinLcIMtZPaBER_rlBhJrGpKELuAALtrzEbvyU4RSdPflDhq7JcAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 02 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC6GinLcirmHhez2cDtKsmHEPoATJbAAJSBgACvyU4RfODlPQtAg8QNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC52inLccR71D7SGMdMiStedphQwVWAALurzEbvyU4Ra1PagxGhKg-AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 03 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC6minLcsxzmyHo0eMEY-V4KHHaC5tAAJTBgACvyU4RfZ8mF6RhNJiNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC6WinLcqM405AaXvSTKpjOS9qh2asAALvrzEbvyU4RXjkHdq-G4FQAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 04 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC7GinLc6ctRJ7ql8hr_2S6X4L0MDXAAJUBgACvyU4RRv6nLo4LekDNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC62inLc2kwJScGGO9fNw1oa3WZk8TAALwrzEbvyU4Rf7UIgZJeofGAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 05 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC7minLdFyHSV0gDuiOkDDSJPN0k76AAJVBgACvyU4RZDDhTFeNZVUNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC7WinLdCmni2oBTCPg6PuaTzmzOrNAALxrzEbvyU4RUN9ef0IpoFPAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 06 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC8GinLdScsHzQVaiNUDCPd44jLkGsAAJWBgACvyU4RbHzIa8_Lv9xNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC72inLdN6kyfPA0RfMkD84oT7K1HjAALyrzEbvyU4RZrf0fGdY9xwAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 07 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC8minLdi6D16btnVnAAHu9cFHXQm9hgACVwYAAr8lOEVjyoMERnYIxzYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC8WinLdY0mIgWUuovZ0Jf9J__wno8AALzrzEbvyU4RbGYlEhlripiAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 08 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC9GinLdvlL_KEVCOdEcrbgnGlxECAAAJZBgACvyU4RSTptFo_xwUHNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC82inLdo8nBhwMR2u5kXy_81k1HLsAAL0rzEbvyU4RQddlsNudu_KAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 09 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC9minLd_9P1w_h-lXzERpUpPcNP0jAAJaBgACvyU4RTE3ub3orxOsNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC9WinLd3KCMCcX9nNBg6I5BfIZHfDAAL1rzEbvyU4Rf0ZT7EEQxPTAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 10 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC-GinLeN_2G4EJf54xPgUQx1QUI3mAAJbBgACvyU4RR8YGq3kVXKZNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC92inLeEwBzgC4FyhmWiT1mxPdH6wAAL2rzEbvyU4RaMgWuBr9xAAAQEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 12 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC-minLgXTZkKfanJM7CU98Kn2QtA-AAJcBgACvyU4RdnwE1itpKxpNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC-WinLgKEjsyUCB6t_rDu5uWywDVgAAL3rzEbvyU4RcwGf3nRFJ5eAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2006",
+        "titulo": "Flash O Homem Mais Rapido Vivo # 13 (2006)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC_GinLglMrwryZ3FnWbitIZrL1imlAAJdBgACvyU4RSDomr52xdq_NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC-2inLgcrISbyX0wucNIpx0Z4t_NFAAL4rzEbvyU4RYkkZrQgMroPAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2022",
+        "titulo": "The Flash - O Homem Mais Rápido Vivo 01 (2022)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIC_minLhBRnrodtLtl47dgnY_ViOwjAAJeBgACvyU4RRp_Uu4qnnORNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC_WinLgoNk4lUvZJLjlvmr2yaGJDuAAL5rzEbvyU4RUJujs0oG22QAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "O Homem Mais Rápido Vivo",
+        "ano": "2022",
+        "titulo": "The Flash - O Homem Mais Rápido Vivo 02 (2022)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDAAFopy4Ym8MtVou9eRHmcs2NC9wguwACXwYAAr8lOEViF0jts--TrDYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIC_2inLhJ61nid4cpIrC89NcjGYUmpAAL6rzEbvyU4RXSQKc_J1Cw_AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1994",
+        "titulo": "Flash Volume 2 - 092",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDAminLhwPZNeCUZ1w2S3x-hRmI_CRAAJgBgACvyU4RUV9iNsggTUuNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDAWinLhtoF9AhWoN7R2fJlz1D4qqLAAL7rzEbvyU4RVV-vTPDCwYPAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1994",
+        "titulo": "Flash Volume 2 - 093",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDBGinLiAdq_lhDH2LulEiI8OWrVMCAAJhBgACvyU4RQTmMjnVi_JMNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDA2inLh8DBA4iVNRGgV5s0bzLpjNlAAL8rzEbvyU4RSeRjwbQYj7SAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1994",
+        "titulo": "Flash Volume 2 - 094",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDBminLiRWmDNJO6nFETwc0UqA9gVmAAJiBgACvyU4RTZU6CY74JnENgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDBWinLiLCIfq7Q8TI4UolYre4rVrZAAL9rzEbvyU4RUBqYBtpZHcNAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Final",
+        "ano": "2008",
+        "titulo": "Final Crisis - 001",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDCGinLirVGt9DtR3PL0OQyCjAmp3VAAJjBgACvyU4RR1pqE3zRq1lNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDB2inLica_AAB0XQZQjpu-gQGGf-IqQAC_q8xG78lOEV9enX-6BuHPgEAAwIAA3cAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Final",
+        "ano": "2008",
+        "titulo": "Final Crisis - 002",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDCminLi5v3JVG43lAxD1P8YJl_Ij6AAJkBgACvyU4RSlCzsB8N8vNNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDCWinLiy70yHZ5rhvAkU5y5LcDrjqAAL_rzEbvyU4RWC9_QfKQPJYAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Final",
+        "ano": "2008",
+        "titulo": "Final Crisis - 003",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDDGinLjR3hXp48rVqRkXso8wnmj5kAAJlBgACvyU4Re5AGskFDJswNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDC2inLjI48Rubx2hgDHYe2_R98gVcAAOwMRu_JThFlr0W-KpR6AABAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Final",
+        "ano": "2008",
+        "titulo": "Final Crisis - 004",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDDminLkFlKCpdJ-BKEZlHslYcHYhOAAJmBgACvyU4RdciP7SLbk61NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDDWinLj6cg480vkdHqIiwnzoGdXeJAAICsDEbvyU4RWvU0KFYEBT6AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Final",
+        "ano": "2008",
+        "titulo": "Final Crisis - 005",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDEGinLkfFK-PE7ulOdU6xcrkvChkzAAJnBgACvyU4RShSjXU5ipeaNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDD2inLkNRchXrZFakafyFN4825i80AAIDsDEbvyU4RZA8dmbyv4qgAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Final",
+        "ano": "2008",
+        "titulo": "Final Crisis - 006",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDEminLk1c3WfIOdXuwFYvFlFTDwfxAAJoBgACvyU4RTuDAwABSfA2NjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDEWinLklaTug4jLoyjai8BOmH6uNGAAIEsDEbvyU4RYrTcCCFDvXtAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Final",
+        "ano": "2008",
+        "titulo": "Final Crisis - 007",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDFGinLlMSRi75rjncbB_GinUvM4GmAAJpBgACvyU4RWRsIkZS4AuQNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDE2inLk-B7hDgQua4amuTcE9sPT9-AAIFsDEbvyU4RYceTPpcHdcoAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Infinita",
+        "ano": "2005",
+        "titulo": "Crise Infinita # 01",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDFminLlgFGI3KjrUjVnzhAyXt421iAAJqBgACvyU4RaN7g65HXQHJNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDFWinLlV73Q0o1LnYQiAD7zu2d6VXAAIGsDEbvyU4RfLQ-OfPqYeQAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Infinita",
+        "ano": "2005",
+        "titulo": "Crise Infinita # 02",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDGGinLl18m3n-AAF5xjTIWrz6lthKzwACawYAAr8lOEW5yOA7Bh-MLjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDF2inLlqkITpeYR5xXDOx5xXWwKS2AAIHsDEbvyU4RW43vuTNJwyuAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Infinita",
+        "ano": "2005",
+        "titulo": "Crise Infinita # 03",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDGminLmKfH2ZXEy1okU9TZUsj3uNRAAJsBgACvyU4RVERI1_dmzOhNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDGWinLl92xY0jOMxA-j7pmcUtEi-WAAIIsDEbvyU4RdcYUdwK_xZEAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Infinita",
+        "ano": "2005",
+        "titulo": "Crise Infinita # 04",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDHGinLmeokD74FOU73fqbadDmMU3SAAJtBgACvyU4Rc4caxnsM4jlNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDG2inLmMAAZtQ98sqypMowSe5llbfXwACCbAxG78lOEXdaQc2QS7O_QEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Infinita",
+        "ano": "2005",
+        "titulo": "Crise Infinita # 05",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDHminLmygbZyr6k6-M5ZCCNVGBLQWAAJuBgACvyU4Re6p6QSVh-ZbNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDHWinLmlsL3r2AQ5moCDyivT8jTptAAIKsDEbvyU4RQmGYt_ZVU6sAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Crise Infinita",
+        "ano": "2005",
+        "titulo": "Crise Infinita # 06",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDIGinLnEBRh8PuDQ_bN6-F8c4kLftAAJvBgACvyU4RYVhErMqDZIENgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDH2inLm6TK_saPofL3Yu11rcViCsEAAILsDEbvyU4RenCRGMt8i_YAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Flash: Rebirth",
+        "ano": "2009",
+        "titulo": "000",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDI2inLpBaQMU9wCjN6fWBAnJv9J8NAAJwBgACvyU4RXycnY9MC9BcNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDIminLo5YgQAB3pLNsu3jRjNG7fNreQACDbAxG78lOEVSpkY2jeVuvQEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash - 110",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDJWinLpRdcZnoXV0MvbMovPXUWl-qAAJxBgACvyU4RaYOIGRustXPNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDJGinLpLdcsZwxjWKDcQP2qWCrvsAAw6wMRu_JThFcgAByQr-9KinAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2003",
+        "titulo": "Flash Volume 2 - 197",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDJ2inLpfb3q39Ebdr_bCPAfmqHFQnAAJyBgACvyU4Re9Hyau7pfYUNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDJminLpbWh_lXWUbEhVZsjY26E8UfAAIPsDEbvyU4Rfyw-DsfyljdAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2003",
+        "titulo": "Flash Volume 2 - 198",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDKWinLppySiUmjPdZe3e9bHwQPr7YAAJzBgACvyU4Rb4ga_iQ1idHNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDKGinLplZdllZEdBGkOY5AAFtKSNilgACELAxG78lOEUU7yICxqsNPQEAAwIAA3kAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2003",
+        "titulo": "Flash Volume 2 - 199",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDK2inLp6PUJHRCfNyVaEAAQTb7v1YuwACdAYAAr8lOEWJeXuAHZwF7jYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDKminLpwAASfZhU3QYmmI4AIqzbnvcAACEbAxG78lOEVRCFpWNB18BwEAAwIAA3kAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 200",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDLWinLqHXGtOWthzVi5-3wdMxeguYAAJ1BgACvyU4RXz5bCicD6LJNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDLGinLp85aTADI77ncXsiLbWPk6aHAAISsDEbvyU4RUuwKJmzpW8nAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2001",
+        "titulo": "Flash Volume 2 - 170",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDL2inLqWmwudWQU7n9MPxatcyv1kJAAJ2BgACvyU4RcIytPyJOyx-NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDLminLqO_xya897u4nsi7-S6WajbzAAITsDEbvyU4RQfByi8b-87qAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2001",
+        "titulo": "Flash Volume 2 - 171",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDMWinLquVE6Tc08S8bgUM2KvdhvbrAAJ3BgACvyU4RZsKQ0BsSkATNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDMGinLqezPQYJ6bYEvW02z4xh3fE3AAIUsDEbvyU4ReLrEBvUJVmdAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2001",
+        "titulo": "Flash Volume 2 - 172",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDM2inLq8WBuN3QU00Bpeq4Am9rzYeAAJ4BgACvyU4RZEkSIW3Jv6_NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDMminLq1DgC4MUSUcouxZZx64qahIAAIVsDEbvyU4RY5HME0E_ZdCAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2001",
+        "titulo": "Flash Volume 2 - 174",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDNminLsUg4rAZY1hAYLUCp1NEbIxVAAJ5BgACvyU4RblozVhDm2rbNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDNWinLsMH4LtVDrhQybnmfhNTOweTAAIXsDEbvyU4RcopfvmUmQQZAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2001",
+        "titulo": "Flash Volume 2 - 175",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDOGinLsghdMhEbdMAAcoJhUpitZ23oAACegYAAr8lOEX7UiHaY1GSijYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDN2inLscSLMs1-VvbPUnyMnMFNXeeAAIYsDEbvyU4RdSV2XsbzGLoAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2001",
+        "titulo": "Flash Volume 2 - 176",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDOminLswnTRluDIl1EsieBtG4UfQZAAJ7BgACvyU4RXbq0SC0O80NNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDOWinLsq0KmoeLcIOExDttfFHA8cEAAIZsDEbvyU4Rbfck6suo2eQAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 183",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDPGinLtBMxgUCH2V3ZMZ4bfzUEDu3AAJ8BgACvyU4RZfmLj-lqJ00NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDO2inLs54uwQvBZKDAXBKzDzxCIGZAAIasDEbvyU4RS2uDWjWYqAjAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 184",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDPminLtReFq7U8eQIvUob_Y3YN8JZAAJ9BgACvyU4Rc-CZGVCVgABFjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDPWinLtJX6wyfsFhuS-iSNj1DXFmBAAIbsDEbvyU4RY9rf14GR69VAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 185",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDQGinLtfnFBsjGFHjVMo1jVsyhxH9AAJ-BgACvyU4RWH4yaqMpmfrNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDP2inLtUGvQfqm4OytSFUQe3Frc3pAAIcsDEbvyU4RfsLmLQlFq48AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 186",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDQminLtsAAU_WmoGmWXsj872m2EI8_gACfwYAAr8lOEU3JB4Lwh5T8jYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDQWinLtkic6ZPD5RhLkDVuNtO4u4lAAIdsDEbvyU4RQkAAXQGkZBFUAEAAwIAA3kAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 187",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDRGinLt7O88uoLVQbSq5WggcpPSgOAAKABgACvyU4RTx_M9GvcOynNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDQ2inLt22FKm2_Z_bahThn1dpZ0GhAAIesDEbvyU4RYgBPHe4svfoAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 188",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDRminLuP9uTwzWXQ0hLO7u1nyGowFAAKBBgACvyU4RSJNo7DgcS9KNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDRWinLuAZjciWqvHbDjS6xEfdcJEeAAIfsDEbvyU4RVNkUpFcL4qZAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 189",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDSGinLuaKqdZvx7MFlb9Yjs2Hx7ynAAKCBgACvyU4Re6vy9tBBGeHNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDR2inLuSzPS9uyeu0njP9r6eWIR1nAAIgsDEbvyU4RU69ZF4n4hZMAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2003",
+        "titulo": "Flash Volume 2 - 191",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDSminLwjO4ODmE70H2HsVPxSLFWnEAAKDBgACvyU4RRnK7y11pz1KNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDSWinLwTeheFQ_DZUbpaJ-HEn-P_MAAIhsDEbvyU4RbmK6Afcc__VAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 108",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDTGinLw7wJ_Jg7-PUTLLNcKOPp-vsAAKEBgACvyU4Rexj1xoGel6XNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDS2inLwuZFUQRsoy-fVcnmbGp96Y8AAIisDEbvyU4RSkHR-SH6aGOAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 109",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDTminLxP6Q1_bPOAFDHnwLBl8fjIgAAKFBgACvyU4RaZBgr2IEN1tNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDTWinLxEi8FzgvIai53mOJnQAAU1AQwACI7AxG78lOEXygWyAoK_QQwEAAwIAA3kAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 110",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDUGinLxkK4-6NNoEzfpFwnsB4kjvkAAKGBgACvyU4RZzRnD0RdrCyNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDT2inLxY2chmpwRdg4AJBTgWcJ-LYAAIksDEbvyU4RdM_DJHH-38VAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 111",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDUminLx9oWYErgIC8hC3phRVH-I4kAAKHBgACvyU4RRQ8dZCbTXyBNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDUWinLx08zZ2yWtHuWR4SgECdNTukAAIlsDEbvyU4RZ_ikDK_o9N5AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Impulso",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Impulso - 010",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDVGinLyTtoXVzRw9bIP4yhSZtbGeHAAKIBgACvyU4Re3onMycwn1HNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDU2inLyIh6N9mcfCg4NOrcJDlijZnAAImsDEbvyU4RRUSsC8Il4LOAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Impulso",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Impulso - 011",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDVminLyk2NhWthmHV93NfcHAiNSWWAAKKBgACvyU4RSPfH_PS3h6kNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDVWinLyfT-FF1E0eanH-C3Rou_hYwAAInsDEbvyU4RaFFfcsT2RM_AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Epidemia",
+        "ano": "1996",
+        "titulo": "Flash Epidemia",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDWGinLyxae6NX2UmsjWMppQt8BMRwAAKLBgACvyU4RVvw5qq7BjyfNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDV2inLyu3A8SKMHw14aZNQZHmpMusAAIosDEbvyU4RQABZuEWloLjCAEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1998",
+        "titulo": "Flash Volume 2 - 139",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDWminLzJD1c0JklL15gdPmqUx2UPGAAKMBgACvyU4RcJZgGF9U0VCNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDWWinLy-FOPb659Vr-onfOkDVYCl8AAIpsDEbvyU4RflPAiZYsp4eAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1998",
+        "titulo": "Flash Volume 2 - 140",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDXGinLzdGutJkaDNo1rOV0ijtSn0WAAKNBgACvyU4Rf6kDTYqp0m2NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDW2inLzSmWl2yFFzyFaBy7BEJJVowAAIqsDEbvyU4RTWi6n39Jd8mAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1998",
+        "titulo": "Flash Volume 2 - 141",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDXminL0KxA60x43HHmBHZgtpiT82wAAKOBgACvyU4RSB6wddmJMJGNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDXWinL0DZc-XmxImn1gKqJhcMMz49AAIrsDEbvyU4RX_503qq8t4qAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1999",
+        "titulo": "Flash Volume 2 - 145",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDYGinL0V0QdXotqcOkpn2ZZTaxve4AAKPBgACvyU4RRPPNAAB8KI-sjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDX2inL0TDxTTkHzDokYbKLi65Yl8bAAIssDEbvyU4Rb-I40GTLRn5AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1999",
+        "titulo": "Flash Volume 2 - 146",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDYminL0kZxHCOeYQ9Ugi0sLtmJAsHAAKQBgACvyU4RYC_1SrJnLWDNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDYWinL0dcsrTXS1JKmKwUPzKFuiJtAAItsDEbvyU4RWTyHG-bIdkNAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1999",
+        "titulo": "Flash Volume 2 - 147",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDZGinL0wxZfUi59R24jSDvzZ7ThgSAAKRBgACvyU4RaqKuya_pxJiNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDY2inL0rs0N-wcypr_uKo9JhBpyZWAAIusDEbvyU4ReXD6t_yz8EFAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1999",
+        "titulo": "Flash Volume 2 - 148",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDZminL09Nuz0rks4IRDmJIoLeLRJtAAKSBgACvyU4RWw-JjqH57IdNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDZWinL05qPbFeBofw3_YJJjmXk-a0AAIvsDEbvyU4RewL_IZ46IVAAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1999",
+        "titulo": "Flash Volume 2 - 149",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDaGinL1JDD1oz1puCDgb_jzjuTWX_AAKTBgACvyU4RZgEchMbQAPANgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDZ2inL1EVXniRa6B19iq5hctOB3obAAIwsDEbvyU4RUSTwNJHTVEcAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1999",
+        "titulo": "Flash Volume 2 - 150",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDaminL1Y1JNhQl2DW9lUSiAFzAzL8AAKUBgACvyU4RfUHtCQNWOamNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDaWinL1T-g36a7MLGe4IMOn8PtKHyAAIxsDEbvyU4RfXyESjSsneFAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 212",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDbGinL1nXEi5jgGOo5j4mdoW70402AAKVBgACvyU4ReZk85PZY3FJNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDa2inL1dlPo94yPMlS9cbkg8gpRU9AAIysDEbvyU4RemR9tJylBfmAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 218",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDbminL1xe0wZv0e9eN9Ds38zn7kXBAAKWBgACvyU4RdN8M-D_437jNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDbWinL1rl0N34pAs-ONlpMYwESA7ZAAIzsDEbvyU4RVqinpxknV5JAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 220",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDcGinL2CMrHSQ0Q1W5QkgnsOO5O0WAAKXBgACvyU4RUUtcCsbIoBINgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDb2inL17LBhMbLOWsQFhBOGA_aohcAAI0sDEbvyU4RT2xxo1WMgkSAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 223",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDcminL4Kv__MaT2W5GVp-MDDZZbNlAAKYBgACvyU4ReShXi1P2nYqNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDcWinL4BFJPqKQOOjak0j9pu0wmweAAI1sDEbvyU4RXp-b8B8k9wcAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 224(1)",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDdGinL4ZfhZvvjxFtPD_xr489TJnhAAKZBgACvyU4Rd28517ChyhcNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDc2inL4Q89fEzmGnrQ1xIHrwDkRK7AAI2sDEbvyU4RXc_6MsPX6mSAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 224",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDdminL4lrMS19-BgqE2GNp2ZP0GRDAAKaBgACvyU4Re7P2vscpNlsNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDc2inL4Q89fEzmGnrQ1xIHrwDkRK7AAI2sDEbvyU4RXc_6MsPX6mSAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 201",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDeGinL4wPWDzpa2I8_iFVhn2cKnVHAAKbBgACvyU4RUv6_DtDHwuBNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDd2inL4sEXfcIuiBORlockSxyqJMzAAI3sDEbvyU4RT5hnWg3gG0EAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 202",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDeminL4--PJozkoHVgJ7lEaE7sRhTAAKcBgACvyU4RQMrfvQb3JiKNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDeWinL47MCdyRctzVgMSgu6R7UlpQAAI4sDEbvyU4RfmQUNTUH_b7AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 203",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDfGinL5IMwbz9rLGWgkpALjeNbXcaAAKdBgACvyU4RRRpKwr9TorXNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDe2inL5BaKll8EiYVJqi1uIcwoEOZAAI5sDEbvyU4RbACuLDSnjSBAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 204",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDfminL5RuQ9xdr6AY3oHUjNK-HNcfAAKeBgACvyU4RWbQX5uS74rYNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDfWinL5NqePnJTrF80aSBn5gsrMpWAAI6sDEbvyU4RTv5SEjig79CAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 205",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDgGinL5gx3ekklqNmClUZj9-eWWF5AAKfBgACvyU4RfxmrpKjjbkdNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDf2inL5bHYBCfeyBALTQbCoVLDU-CAAI7sDEbvyU4RYigYvld2QZYAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 206",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDgminL5odfVNAlQilZpUnxJg6iA4eAAKgBgACvyU4RejKa6KkCdNqNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDgWinL5mynomLB7Slwbqp0gksj7wZAAI8sDEbvyU4RRdGVYK0wda_AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1992",
+        "titulo": "Flash Volume 2 - 062",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDhGinL6CwPrPZSyEcvWvScF-pEwlWAAKhBgACvyU4RTfDC9EltRAMNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDg2inL50WQptslJDEoqF6TQUOyr7nAAI9sDEbvyU4RWuj5D6jK4EjAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1992",
+        "titulo": "Flash Volume 2 - 064",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDhminL8YWhQTfESAU3vw2H8dz1gHaAAKiBgACvyU4RUVUdhao3ealNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDhWinL8P_UFrnIn4hNRh_e1QHHIhXAAI-sDEbvyU4RWokAXJYS2otAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1992",
+        "titulo": "Flash Volume 2 - 065",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDiGinL82B4VxY06FnHeZ1lYz_tOx4AAKjBgACvyU4RVLAm4GWspiDNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDh2inL8pwE9f_bev9XJSa-LyJ_FxSAAI_sDEbvyU4RSealPPRWEs5AQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1993",
+        "titulo": "Flash Volume 2 - 073",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDiminL9HrYs3wRy1zlglXRRS8VTpNAAKkBgACvyU4Re_KgIweGO-vNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDiWinL8_IdDLp5qw3WB8c2t0rk5ejAAJAsDEbvyU4RWsKz2lm5f5hAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1993",
+        "titulo": "Flash Volume 2 - 074",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDjGinL9SH3EWfNNjfz2h9MfzGUvKwAAKlBgACvyU4RcFmJVr0XkQaNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDi2inL9M_up0P-OPRZJE_k8J4XcQ0AAJBsDEbvyU4RSSOFCOIHcfmAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1993",
+        "titulo": "Flash Volume 2 - 075",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDjminL9crfIz2qFrIBbyklMJIO89DAAKmBgACvyU4RcHrPcd1PQl-NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDjWinL9VS9cPX9qnz35h5_DJLoBUNAAJCsDEbvyU4RY1iFh9pAAGJkwEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1993",
+        "titulo": "Flash Volume 2 - 076",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDkGinL9ugM11XJhpVm99GsVevGhVuAAKnBgACvyU4RT-kQ56icrZGNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDj2inL9mLa72morUbrFT_EJl7Gn5WAAJDsDEbvyU4RcGbrgGzKx6ZAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1993",
+        "titulo": "Flash Volume 2 - 077",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDkminL98THi9wL7Fd5XWE_95ZIKdPAAKoBgACvyU4RS23nLd_glTKNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDkWinL93FdIA3V5BWDWOGVhg2clKiAAJEsDEbvyU4RcNu4KXzhO2lAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1993",
+        "titulo": "Flash Volume 2 - 078",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDlGinL-JQCAqozJsWf5soXbOzqM3jAAKpBgACvyU4RbnZWEH1AtJnNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDk2inL-AVNKYzkCg5c9ta8FNExmZcAAJFsDEbvyU4Rcx1zS501okBAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1993",
+        "titulo": "Flash Volume 2 - 079",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDlminL-i0SrznlBsAAYIap6kncJap-QACqgYAAr8lOEU67yyJquS5GjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDlWinL-TjfcSXeaKT5wdv_fwv_kz7AAJGsDEbvyU4RT3Py8SIwCypAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2001",
+        "titulo": "Flash Volume 2 - 177",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDmGinL-xOOTL2TwPErwMVVBtxDUAEAAKrBgACvyU4RdEVCqHjft3SNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDl2inL-l-a3fPGPuvu3JLx-ivh6aOAAJHsDEbvyU4RW6cYto0nOSHAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 179",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDmminMAXo8vYNCslj9h9UMTcRUSrkAAKsBgACvyU4RYNtTbpge6KoNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAICHWinKt9GJC9IcqODJXrWtlNVJy1jAAKLrzEbvyU4RQnn3HcZJblkAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 180",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDnGinMAliBVf-fDmJtYKGWV6uMhkzAAKtBgACvyU4RRvOI05QmJ7BNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDm2inMAdl9GXcsiSwVZFlU0x5ZDbJAAJIsDEbvyU4RXg_u_FPRETrAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 181",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDnminMAxWHgagHocJcsMmPvxPfXFJAAKuBgACvyU4RZYN8EOIvBsuNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDnWinMAthX1jmY4lDPZL36JJZgA3cAAJJsDEbvyU4RW1lbfNuUW_eAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2002",
+        "titulo": "Flash Volume 2 - 182",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDoGinMBB_gNOspwABsyZ3sPDbYbKaxAACrwYAAr8lOEXrglbx-9RgKjYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDn2inMA6qPD_iKc6TGwk-cVcZthB1AAJKsDEbvyU4RYGil7LV4csKAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 207",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDominMBVeqZRU7-w86jmb6mIMaVt4AAKwBgACvyU4RZEzkdcdF7QPNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDoWinMBS1QbCS0UZ00DsAAW4kGjOK_QACS7AxG78lOEUkHto8pfTdlAEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 208",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDpGinMBiy8Qpi7Zn1radutQQ-rPvBAAKxBgACvyU4RSANRupDV8adNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDo2inMBcMC9aXphyVCbm013iXvxggAAJMsDEbvyU4RT_3sDos2R4AAQEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 209",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDpminMBt9VgxIJn7qtRPXcCTdufJKAAKyBgACvyU4RV6DDRzlB0uHNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDpWinMBpFHbhY8fC4UMjgR0w57YgSAAJNsDEbvyU4RdlX3FTs7cKhAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 210",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDqGinMB68EcFu1To193q0onps2GjeAAKzBgACvyU4RQVd4Q0TjDOsNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDp2inMB2i9SBkJQ4KG9NJL9nDcg5UAAJOsDEbvyU4RYlGEsH8DtTLAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2004",
+        "titulo": "Flash Volume 2 - 211",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDqminMCIs2KPkb3ehL3GAU4DEOcVRAAK0BgACvyU4RcPqCcOzmb0fNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDqWinMCAFMcjeJcHhlbNg_fyVCNCSAAJPsDEbvyU4RSdgsHVXGifkAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 213",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDrGinMCWUnVbDvRBDzoFjp6fjKrhKAAK1BgACvyU4RZk0ybKfqiXuNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDq2inMCSEhNXNXC8f2KMz2ma8uHNnAAJQsDEbvyU4RUZ-gPO1vx42AQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 215",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDrminMEf9vnq1QBKdpzqaFG3e6TiOAAK2BgACvyU4RTEmJuwSbp9dNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDrWinMEQtxSGOO2xNiBI0GN6igGAhAAJRsDEbvyU4RSS6BKCPn5_mAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 216",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDsGinMEu2Bvk-BkidfDTEbyclvBqAAAK3BgACvyU4RY4mREZ1HL9NNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDr2inMEkqhUh38WzGnBlu2ejIEzVbAAJSsDEbvyU4RbtrHOMiNd93AQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2005",
+        "titulo": "Flash Volume 2 - 217",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDsminME681EiZtbSjLz-l80pzBaABAAK4BgACvyU4RTEk0A1OEnAoNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDsWinMEzGagvVneOlUdAy3X5VY7v8AAJTsDEbvyU4RQvtbb_-nJVQAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 095",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDtGinMFIHK7eTtm95-XUMakkwBBYRAAK5BgACvyU4ReLUCmUUAWItNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDs2inMFBOzQzUOkCk2OYKXUQZFkfHAAJUsDEbvyU4RbsRD0lXNYhpAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 096",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDtminMFasFQ_KAbKgX8Sypj-4yXD-AAK6BgACvyU4Re_s2Xj05fDYNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDtWinMFSmUwP9_uJDXCgRIIDvGha9AAJVsDEbvyU4RWUNQBGM4XyxAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 097",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDuGinMFqusPHeIIvW0zldvvPsY5FuAAK7BgACvyU4RYeUvIFRicOGNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDt2inMFiVI11WdSwvLZivVIt32F_jAAJWsDEbvyU4RYjDL96shVluAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 098",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDuminMF3h9mJvP1b3fsi40XOR0hVcAAK8BgACvyU4Rcq2-UY9OJuBNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDuWinMFvvljDSp5pvqI6uUQ4pzIkKAAJXsDEbvyU4RbepuTlFNwQxAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 099",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDvGinMGHo2xTBfFz_-OlPcF-gPZFuAAK9BgACvyU4RYLuR0mLTZrbNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDu2inMF8JufcN_2WJDmOyRLDqiFpZAAJYsDEbvyU4RbIU0OwhDDdlAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "1995",
+        "titulo": "Flash Volume 2 - 100",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDvminMGXlYgk4MS5nTN2XxLBO5xcBAAK-BgACvyU4Rb2ytyUD9Ro2NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDvWinMGLQwF3H6W8MmMstrAOPBFnsAAJZsDEbvyU4RZafy4VRFbcYAQADAgADbQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2000",
+        "titulo": "Flash Volume 2 - 164",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDwGinMGh-cLy6KzJYBvLGmmM-wSb0AAK_BgACvyU4RRai0X9BlHi8NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDv2inMGbMwHP6HxMtJCnY6yWj3cqFAAJasDEbvyU4Raqbbiu1cC3CAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2000",
+        "titulo": "Flash Volume 2 - 166",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDwminMIZb8kKTK316zz0zWSwLFV_mAALABgACvyU4RbYQVSZ66088NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDwWinMITHuf1pWsOEVZbrksVRw_gdAAJbsDEbvyU4RRZplPzeCZ1MAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2000",
+        "titulo": "Flash Volume 2 - 167",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDxGinMIt9T7vgYqiQsWuqYVpm0sFrAALBBgACvyU4RUZcAAGgx4YsozYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDw2inMIh3c78dpa-vuFGvQvnGjn98AAJcsDEbvyU4Rfm6qMnVPquUAQADAgADdwADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2000",
+        "titulo": "Flash Volume 2 - 168",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDxminMI9akMDRNc1QX820gKEVlDywAALCBgACvyU4Rcv4RDe0jnZkNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDxWinMI38S_sC9x9HkDPv7dslEhZ2AAJdsDEbvyU4RSUu5156VNK8AQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Flash",
+        "saga": "Não especificado",
+        "ano": "2000",
+        "titulo": "Flash Volume 2 - 169",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDyGinMJNgZp2NuAR1cQAB1trXDzJdHQACwwYAAr8lOEX4skax1RIyUDYE",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDx2inMJBRuKVOaZLy2TtdIVX59NcWAAJesDEbvyU4ReLpzH0DsA9LAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Liga da Justiça da América",
+        "saga": "Não especificado",
+        "ano": "2017",
+        "titulo": "Liga da Justiça da América V4 - #08",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDyminMJiYxU_YZjkF1X5ia2t4jMrQAALEBgACvyU4RaBeSV2Vjcb6NgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDyWinMJT7QH6kpLiJd1BUWNjrKylzAAJfsDEbvyU4RY-9jt5XfJkWAQADAgADeAADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Liga da Justiça da América",
+        "saga": "Não especificado",
+        "ano": "2017",
+        "titulo": "Liga da Justiça da América V4 - #09",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDzGinMJu9fQV5Q7YPnV9GmKiqE3p1AALFBgACvyU4RW--YxNw8_KiNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDy2inMJm1WNK50mwxpBUvlFgLAAFzugACYLAxG78lOEXxwvYrtQsBWAEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Liga da Justiça da América",
+        "saga": "Não especificado",
+        "ano": "2017",
+        "titulo": "Liga da Justiça da América V4 - #10",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAIDzminMJ7tNzwI2h3fYqQOVniSkF_XAALGBgACvyU4RcWI9bm_BOnONgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDzWinMJzBfALOJcTYLlREkBPs7hpOAAJhsDEbvyU4RVF9qr4AAcw3TQEAAwIAA3gAAzYE"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Zero Hora",
+        "ano": "1994",
+        "titulo": "Zero Hour - 000",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAID0GinMKICmsZIDtM1Kwa5TtEWWzcVAALHBgACvyU4RZZELNaOr2yNNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAIDz2inMKBA-5H7LkDt5hWXyMbD_RjtAAJisDEbvyU4RewWSnBXG6YUAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Zero Hora",
+        "ano": "1994",
+        "titulo": "Zero Hour - 001",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAID0minMKWhuhqyiBnjOQ3MwD9uejk-AALIBgACvyU4RbEId6Mk5KKlNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAID0WinMKRS83tUH71ShckRkOiKKUm-AAJjsDEbvyU4RWd8IDKDU6fyAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Zero Hora",
+        "ano": "1994",
+        "titulo": "Zero Hour - 002",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAID1GinMKksol-CDx54qT3g4rilMV2UAALJBgACvyU4RfyHAptDrNZNNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAID02inMKe2mMgrc3maoN4fJPX_szLIAAJksDEbvyU4RVkmBUV3h0KtAQADAgADeQADNgQ"
+    },
+    {
+        "editora": "DC Comics",
+        "heroi": "Vários",
+        "saga": "Zero Hora",
+        "ano": "1994",
+        "titulo": "Zero Hour - 004",
+        "file_id_hq": "BQACAgEAAyEGAASv5761AAID1minMMc9tmUlBDiS22jRcSQImTblAALKBgACvyU4RXtzVnqq2jqiNgQ",
+        "file_id_capa": "AgACAgEAAyEGAASv5761AAID1WinMMW72DGN4NF2AV5qoxxkPFyJAAJlsDEbvyU4RYcnSno4qYjbAQADAgADdwADNgQ"
+    }
+]    

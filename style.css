@@ -1,0 +1,150 @@
+:root {
+    --tg-theme-bg-color: #1C1C1E;
+    --tg-theme-text-color: #FFFFFF;
+    --tg-theme-hint-color: #8E8E93;
+    --tg-theme-button-color: #7F5AF0;
+    --tg-theme-secondary-bg-color: #2C2C2E;
+    --tg-theme-button-text-color: #FFFFFF;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: var(--tg-theme-bg-color);
+    color: var(--tg-theme-text-color);
+    margin: 0;
+    padding: 15px;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+/* Sistema de Views */
+.view {
+    display: none;
+    flex-direction: column;
+    height: 100%;
+}
+.view.active {
+    display: flex;
+}
+
+.container { max-width: 1200px; margin: 0 auto; }
+
+/* Cabeçalho Principal */
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.intro-text { text-align: center; margin: 20px 0 30px; }
+.intro-text h2 { margin: 0; font-size: 24px; font-weight: 700; }
+.intro-text p { margin: 4px 0 0; color: var(--tg-theme-hint-color); font-size: 16px; }
+
+/* Cabeçalho das Views Secundárias */
+.comics-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    position: relative;
+    justify-content: center;
+}
+.back-button {
+    background: none;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    position: absolute;
+    left: 0;
+}
+.comics-header h2 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* Pesquisa e Tags */
+.search-container { position: relative; margin-bottom: 25px; }
+.search-icon { position: absolute; left: 15px; top: 50%; transform: translateY(-50%); pointer-events: none; }
+#search-bar, #main-search-bar {
+    width: 100%; padding: 14px 15px 14px 45px; font-size: 16px; border-radius: 12px;
+    border: none; box-sizing: border-box; background-color: var(--tg-theme-secondary-bg-color);
+    color: var(--tg-theme-text-color);
+}
+#search-bar::placeholder, #main-search-bar::placeholder { color: var(--tg-theme-hint-color); }
+#search-bar:focus, #main-search-bar:focus { outline: 2px solid var(--tg-theme-button-color); }
+
+.tags-section { margin-bottom: 25px; }
+.tags-container {
+    display: flex; gap: 10px; overflow-x: auto;
+    padding-bottom: 10px; scrollbar-width: none;
+}
+.tags-container::-webkit-scrollbar { display: none; }
+.tag-button {
+    padding: 8px 16px; border-radius: 20px; background-color: var(--tg-theme-secondary-bg-color);
+    color: var(--tg-theme-text-color); border: none; cursor: pointer;
+    font-size: 14px; font-weight: 500; white-space: nowrap; transition: background-color 0.2s;
+}
+.tag-button.active { background-color: var(--tg-theme-button-color); color: var(--tg-theme-button-text-color); }
+
+/* Grelhas */
+.grid { display: grid; gap: 18px; }
+.category-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.subcategory-grid { grid-template-columns: 1fr; }
+.hq-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+
+/* Card de Categoria Principal */
+.category-card {
+    background-color: var(--tg-theme-secondary-bg-color);
+    border-radius: 12px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.category-card:hover { background-color: #3A3A3C; }
+
+/* Card de Subcategoria (estilo lista) */
+.subcategory-card {
+    aspect-ratio: auto;
+    padding: 20px;
+    justify-content: flex-start;
+}
+
+/* Card de HQ */
+.card {
+    border-radius: 12px; overflow: hidden; background-color: var(--tg-theme-secondary-bg-color);
+    display: flex; flex-direction: column; transition: transform 0.2s ease;
+}
+.card:hover { transform: translateY(-5px); }
+.card .cover {
+    width: 100%; aspect-ratio: 2 / 3; background-color: #333; color: #fff;
+    display: flex; align-items: center; justify-content: center; font-size: 14px;
+    text-align: center; padding: 10px; box-sizing: border-box; font-weight: bold;
+    background-size: cover; background-position: center;
+}
+.card .info { padding: 12px; }
+.card .title {
+    font-size: 15px; font-weight: 600; line-height: 1.3; margin-bottom: 10px;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden; text-overflow: ellipsis; min-height: 39px;
+}
+.card .actions { display: flex; gap: 8px; }
+.card-button {
+    flex-grow: 1; padding: 9px 5px; border-radius: 8px; border: none;
+    font-size: 13px; font-weight: 600; cursor: pointer; transition: background-color 0.2s;
+}
+.btn-desc { background-color: #3A3A3C; color: var(--tg-theme-text-color); }
+.btn-assistir { background-color: var(--tg-theme-button-color); color: var(--tg-theme-button-text-color); }
